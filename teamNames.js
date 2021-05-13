@@ -16,19 +16,22 @@ const puppeteer = require("puppeteer");
 
     await page.waitForSelector("tbody");
 
-    var b = await page.$$("tr > td:nth-child(2) a");
+    // var b = await page.$$eval(" tbody > tr > td:nth-child(2) a", (h) => {
+    //   return h.forEach((element) => {
+    //     element.href;
+    //   });
+    // });
     // console.log("this is b", b);
-    var c = [];
+    const allLink = await page.$$eval(" tr > td:nth-child(2) a", (options) =>
+      options.map((option) => option.href)
+    );
+    // console.log(allLink);
 
-    // b.map((h) => {
-    //   c.push(h.href);
-    // });
-
-    // b.forEach((h) => c.push(h.href));
-    // b.forEach(function () {
-    //   return c.push(this.href);
-    // });
-    console.log(c.length);
+    const links = [];
+    for (i = 2; i <= 62; i++) {
+      links.push(allLink[i]);
+    }
+    console.log(links.length);
   } catch (err) {
     console.log("Could not create a browser instance => :", err);
   }
