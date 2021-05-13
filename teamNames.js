@@ -31,7 +31,25 @@ const puppeteer = require("puppeteer");
     for (i = 2; i <= 62; i++) {
       links.push(allLink[i]);
     }
-    console.log(links.length);
+    // console.log(links.length);
+    const resultTeam = [];
+    for (i = 0; i < links.length; i++) {
+      const team = links[i];
+      // console.log("this is team", team);
+      await page.goto(team);
+      await page.waitForSelector("tbody");
+      const allTeam = await page.$$eval(" tr > td:nth-child(2) a", (teams) => {
+        return teams.map((t) => {
+          return (obj = {
+            teamName: t.innerText,
+            teamURL: t.href,
+          });
+        });
+      });
+      resultTeam.push(allTeam);
+    }
+
+    console.log("this is resultTeam", resultTeam);
   } catch (err) {
     console.log("Could not create a browser instance => :", err);
   }
