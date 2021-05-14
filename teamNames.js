@@ -1,4 +1,16 @@
 const puppeteer = require("puppeteer");
+var fs = require("fs");
+const data = require("./filter.json");
+console.log("this is data", data);
+
+const dataJSON = data.map((element) => {
+  return element.clubLink;
+  // return (obj = {
+  //   clubJSON: element.clubLink,
+  // });
+});
+
+console.log(dataJSON.length);
 
 (async () => {
   let browser;
@@ -16,20 +28,21 @@ const puppeteer = require("puppeteer");
 
     await page.waitForSelector("tbody");
 
-    // var b = await page.$$eval(" tbody > tr > td:nth-child(2) a", (h) => {
-    //   return h.forEach((element) => {
-    //     element.href;
-    //   });
-    // });
-    // console.log("this is b", b);
-    const allLink = await page.$$eval(" tr > td:nth-child(2) a", (options) =>
-      options.map((option) => option.href)
+    const allLink = await page.$$eval(
+      "tbody:nth-child(2) > tr > td:nth-child(2) a",
+      (options) =>
+        options.map((option) => {
+          return (obj = {
+            clubName: option.innerText,
+            clubLink: option.href,
+          });
+        })
     );
     // console.log(allLink);
 
     const links = [];
-    for (i = 2; i <= 62; i++) {
-      links.push(allLink[i]);
+    for (i = 0; i < 61; i++) {
+      links.push(dataJSON[i]);
     }
     // console.log(links.length);
     const resultTeam = [];
@@ -38,18 +51,33 @@ const puppeteer = require("puppeteer");
       // console.log("this is team", team);
       await page.goto(team);
       await page.waitForSelector("tbody");
-      const allTeam = await page.$$eval(" tr > td:nth-child(2) a", (teams) => {
-        return teams.map((t) => {
-          return (obj = {
-            teamName: t.innerText,
-            teamURL: t.href,
+      const allTeam = await page.$$eval(
+        "tbody:nth-child(2) > tr > td:nth-child(2) a",
+        (teams) => {
+          return teams.map((t) => {
+            return (obj = {
+              teamName: t.innerText,
+              teamURL: t.href,
+            });
           });
-        });
-      });
+        }
+      );
       resultTeam.push(allTeam);
     }
 
     console.log("this is resultTeam", resultTeam);
+    var jsonObject = resultTeam.map(JSON.stringify);
+
+    var uniqueSet = new Set(jsonObject);
+    var uniqueArray = Array.from(uniqueSet);
+
+    fs.writeFile("filter.json", uniqueArray, function (error) {
+      if (error) {
+        console.error("write error:  " + error.message);
+      } else {
+        console.log("Successful Write to ");
+      }
+    });
   } catch (err) {
     console.log("Could not create a browser instance => :", err);
   }
