@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
+const fs = require("fs");
 
-const allData = require("./filter.json");
-
+const clubs = require("./filter.json");
 
 fetchteam();
 
@@ -20,11 +20,26 @@ async function fetchteam() {
     );
 
     await page.waitForSelector("tbody");
-    allData.forEach((el) => {
-        console.log(el.clubUrl);
-      
-      });
-      
+    const resultTeam = [];
+    for (i = 0; i < clubs.length; i++) {
+      const club = clubs[i];
+
+      await page.goto(club.clubUrl);
+      await page.waitForSelector("tbody");
+      const allTeam = await page.$$eval(
+        "tbody:nth-child(2) tr > td:nth-child(2) a",
+        (teams) => {
+          return teams.map((t) => {
+            return (obj = {
+              teamName: t.innerText,
+              teamURL: t.href,
+            });
+          });
+        }
+      );
+      resultTeam.push(allTeam);
+    }
+    console.log("this is resultTeam", resultTeam);
   } catch (err) {
     console.log("Could not create a browser instance => :", err);
   }

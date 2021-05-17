@@ -76,7 +76,7 @@ console.log("this is clubData", clubData);
     clubData.map((c) => {
       return jsonClubData.push(c);
     });
-    // var newJSON = [];
+    var newJSON = [];
     fs.readFile("./filter.json", "utf8", (err, jsonString) => {
       if (jsonString) {
         console.log("File data:", jsonString);
