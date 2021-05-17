@@ -1,16 +1,12 @@
 const puppeteer = require("puppeteer");
-var fs = require("fs");
-const data = require("./filter.json");
-console.log("this is data", data);
+const fs = require("fs");
 
-const dataJSON = data.map((element) => {
-  return element.clubLink;
-  // return (obj = {
-  //   clubJSON: element.clubLink,
-  // });
+const clubs = require("./filter.json");
+// var listOfClubs = clubs.map((el) => el);
+clubs.map((el) => {
+  return el.clubUrl;
 });
-
-console.log(dataJSON.length);
+console.log("this is clubData", clubData);
 
 (async () => {
   let browser;
@@ -34,15 +30,25 @@ console.log(dataJSON.length);
         options.map((option) => {
           return (obj = {
             clubName: option.innerText,
-            clubLink: option.href,
+            clubUrl: option.href,
           });
         })
     );
     // console.log(allLink);
 
+    // var uniqueArray = JSON.stringify(allLink);
+
+    // fs.writeFile("./filter.json", uniqueArray, function (error) {
+    //   if (error) {
+    //     console.error("write error:  " + error.message);
+    //   } else {
+    //     console.log("Successful Write to ");
+    //   }
+    // });
+
     const links = [];
     for (i = 0; i < 61; i++) {
-      links.push(dataJSON[i]);
+      links.push(clubData[i]);
     }
     // console.log(links.length);
     const resultTeam = [];
@@ -52,7 +58,7 @@ console.log(dataJSON.length);
       await page.goto(team);
       await page.waitForSelector("tbody");
       const allTeam = await page.$$eval(
-        "tbody:nth-child(2) > tr > td:nth-child(2) a",
+        "tbody:nth-child(2) tr > td:nth-child(2) a",
         (teams) => {
           return teams.map((t) => {
             return (obj = {
@@ -65,17 +71,24 @@ console.log(dataJSON.length);
       resultTeam.push(allTeam);
     }
 
-    console.log("this is resultTeam", resultTeam);
-    var jsonObject = resultTeam.map(JSON.stringify);
+    // // console.log("this is resultTeam", resultTeam);
+    var jsonClubData = [];
+    clubData.map((c) => {
+      return jsonClubData.push(c);
+    });
+    // var newJSON = [];
+    fs.readFile("./filter.json", "utf8", (err, jsonString) => {
+      if (jsonString) {
+        console.log("File data:", jsonString);
 
-    var uniqueSet = new Set(jsonObject);
-    var uniqueArray = Array.from(uniqueSet);
-
-    fs.writeFile("filter.json", uniqueArray, function (error) {
-      if (error) {
-        console.error("write error:  " + error.message);
+        fs.writeFile("./filter.json", JSON.stringify(newJSON), (err) => {
+          if (jsonClubData === resultTeam.teamURL) {
+          } else {
+            console.log("write error: " + err);
+          }
+        });
       } else {
-        console.log("Successful Write to ");
+        console.log("File read failed:", err);
       }
     });
   } catch (err) {

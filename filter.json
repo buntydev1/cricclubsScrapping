@@ -1,1595 +1,246 @@
 [
-    {
-        "teamName": "Afgan Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=393&clubId=1755"
-    },
-    {
-        "teamName": "Autodesk CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=376&clubId=1755"
-    },
-    {
-        "teamName": "Autodesk CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=423&clubId=1755"
-    },
-    {
-        "teamName": "Baca Chairman XI",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=148&clubId=1755"
-    },
-    {
-        "teamName": "Bakersfield Lions CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=150&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=396&clubId=1755"
-    },
-    {
-        "teamName": "Guardians Krictaholics",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=392&clubId=1755"
-    },
-    {
-        "teamName": "Lodi CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=391&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=386&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Afghan (ACC)",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=433&clubId=1755"
-    },
-    {
-        "teamName": "Afghan CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=543&clubId=1755"
-    },
-    {
-        "teamName": "Afghan CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=595&clubId=1755"
-    },
-    {
-        "teamName": "Afghan Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=375&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Afghan Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=418&clubId=1755"
-    },
-    {
-        "teamName": "Afghan Zwanan",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=419&clubId=1755"
-    },
-    {
-        "teamName": "Afghan Zwanan",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=608&clubId=1755"
-    },
-    {
-        "teamName": "Afghan Zwanan",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=689&clubId=1755"
-    },
-    {
-        "teamName": "Sultan Afghan Zwanan",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=712&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Afghan Zwanan All Stars",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=534&clubId=1755"
-    },
-    {
-        "teamName": "AFGHAN ZWANAN ALL STARS CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=552&clubId=1755"
-    },
-    {
-        "teamName": "AFGHAN ZWANAN ALL STARS CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=633&clubId=1755"
-    },
-    {
-        "teamName": "All Stars Sahara",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=609&clubId=1755"
-    },
-    {
-        "teamName": "All Stars United",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=334&clubId=1755"
-    },
-    {
-        "teamName": "All Stars United",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=573&clubId=1755"
-    },
-    {
-        "teamName": "California Invincibles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=379&clubId=1755"
-    },
-    {
-        "teamName": "Novae Terrae Afghan Zawan All Stars",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=564&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Bay Area Bravehearts",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=627&clubId=1755"
-    },
-    {
-        "teamName": "Bay Area Bravos",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=593&clubId=1755"
-    },
-    {
-        "teamName": "Bay Area Clovers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=601&clubId=1755"
-    },
-    {
-        "teamName": "Bay Area Clovers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=704&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Bad - Bay Area Disruptors",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=133&clubId=1755"
-    },
-    {
-        "teamName": "Bad - Bay Area Disruptors",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=159&clubId=1755"
-    },
-    {
-        "teamName": "Bad - Bay Area Disruptors",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=203&clubId=1755"
-    },
-    {
-        "teamName": "Bay Area Disruptors (bad)",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=263&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Brentwood Panthers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=720&clubId=1755"
-    },
-    {
-        "teamName": "Pittsburg Pirates",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=714&clubId=1755"
-    },
-    {
-        "teamName": "Richmond Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=369&clubId=1755"
-    },
-    {
-        "teamName": "Richmond Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=591&clubId=1755"
-    },
-    {
-        "teamName": "Richmond Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=703&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Bay Thunder Knights",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=364&clubId=1755"
-    },
-    {
-        "teamName": "Bay Thunder Knights",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=409&clubId=1755"
-    },
-    {
-        "teamName": "Bay Thunder Knights",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=631&clubId=1755"
-    },
-    {
-        "teamName": "Bay Thunder Knights",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=715&clubId=1755"
-    },
-    {
-        "teamName": "Bay Thunder Strikers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=377&clubId=1755"
-    },
-    {
-        "teamName": "Bay Thunder Warriors",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=408&clubId=1755"
-    },
-    {
-        "teamName": "Bay Thunders",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=135&clubId=1755"
-    },
-    {
-        "teamName": "Bay Thunders",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=204&clubId=1755"
-    },
-    {
-        "teamName": "Bay Thunders",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=272&clubId=1755"
-    },
-    {
-        "teamName": "Bay Thunders - Knights",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=327&clubId=1755"
-    },
-    {
-        "teamName": "Bay Thunders - Warriors",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=273&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "BD Royals",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=544&clubId=1755"
-    },
-    {
-        "teamName": "BD Royals",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=602&clubId=1755"
-    },
-    {
-        "teamName": "BD Royals",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=716&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Bengals CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=626&clubId=1755"
-    },
-    {
-        "teamName": "Butter Chicken Boyz",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=705&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Berkeley CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=53&clubId=1755"
-    },
-    {
-        "teamName": "Berkeley CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=91&clubId=1755"
-    },
-    {
-        "teamName": "Berkeley CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=154&clubId=1755"
-    },
-    {
-        "teamName": "Berkeley CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=167&clubId=1755"
-    },
-    {
-        "teamName": "Berkeley CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=213&clubId=1755"
-    },
-    {
-        "teamName": "Berkeley CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=274&clubId=1755"
-    },
-    {
-        "teamName": "Berkeley CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=340&clubId=1755"
-    },
-    {
-        "teamName": "Berkeley CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=366&clubId=1755"
-    },
-    {
-        "teamName": "Berkeley CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=424&clubId=1755"
-    },
-    {
-        "teamName": "berkeley CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=597&clubId=1755"
-    },
-    {
-        "teamName": "Berkeley Cricket Club",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=690&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Bradshaw",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=54&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Butter Chicken Boyz",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=430&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Ca Eagles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=276&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=282&clubId=1755"
-    },
-    {
-        "teamName": "CA Eagles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=691&clubId=1755"
-    },
-    {
-        "teamName": "CA Eagles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=706&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles Crown",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=92&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles Crown",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=214&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles Gold",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=93&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles Gold",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=168&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles Gold",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=215&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles - Crowns",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=251&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles - Crowns",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=304&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles - Crowns",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=305&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles - Crowns",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=336&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles - Gold",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=252&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles - Gold",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=306&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles - Gold",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=307&clubId=1755"
-    },
-    {
-        "teamName": "Ca Eagles - Gold",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=341&clubId=1755"
-    },
-    {
-        "teamName": "CA Eagles I",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=565&clubId=1755"
-    },
-    {
-        "teamName": "CA Eagles II",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=622&clubId=1755"
-    },
-    {
-        "teamName": "California Eagles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=2&clubId=1755"
-    },
-    {
-        "teamName": "California Eagles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=103&clubId=1755"
-    },
-    {
-        "teamName": "California Eagles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=378&clubId=1755"
-    },
-    {
-        "teamName": "California Eagles 1",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=412&clubId=1755"
-    },
-    {
-        "teamName": "California Eagles 2",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=413&clubId=1755"
-    },
-    {
-        "teamName": "California Eagles I",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=350&clubId=1755"
-    },
-    {
-        "teamName": "California Eagles II",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=351&clubId=1755"
-    },
-    {
-        "teamName": "California Eagles II",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=399&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "CA Invincibles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=545&clubId=1755"
-    },
-    {
-        "teamName": "CA Invincibles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=589&clubId=1755"
-    },
-    {
-        "teamName": "California Invincibles",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=417&clubId=1755"
-    },
-    {
-        "teamName": "Invincibles ProCric",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=717&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "cali CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=536&clubId=1755"
-    },
-    {
-        "teamName": "Cali CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=603&clubId=1755"
-    },
-    {
-        "teamName": "california CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=428&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "California Bears",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=141&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Bengal Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=365&clubId=1755"
-    },
-    {
-        "teamName": "Bengal Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=431&clubId=1755"
-    },
-    {
-        "teamName": "Bengal Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=537&clubId=1755"
-    },
-    {
-        "teamName": "Bengals Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=275&clubId=1755"
-    },
-    {
-        "teamName": "Bengals Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=335&clubId=1755"
-    },
-    {
-        "teamName": "California Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=102&clubId=1755"
-    },
-    {
-        "teamName": "California Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=160&clubId=1755"
-    },
-    {
-        "teamName": "California Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=205&clubId=1755"
-    },
-    {
-        "teamName": "California Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=277&clubId=1755"
-    },
-    {
-        "teamName": "California Zalmi",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=320&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "California Super Kings",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=427&clubId=1755"
-    },
-    {
-        "teamName": "California Super Kings",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=623&clubId=1755"
-    },
-    {
-        "teamName": "California Super Kings",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=693&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Cca Centurions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=3&clubId=1755"
-    },
-    {
-        "teamName": "Cca Centurions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=218&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Cza - U13",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=295&clubId=1755"
-    },
-    {
-        "teamName": "Cza - U16",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=289&clubId=1755"
-    },
-    {
-        "teamName": "Czeal",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=158&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Eyca",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=155&clubId=1755"
-    },
-    {
-        "teamName": "Eyca - U13",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=294&clubId=1755"
-    },
-    {
-        "teamName": "Eyca - U16",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=288&clubId=1755"
-    },
-    {
-        "teamName": "Eyca Yuva",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=118&clubId=1755"
-    },
-    {
-        "teamName": "Eyca Yuva",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=206&clubId=1755"
-    },
-    {
-        "teamName": "Eyca Yuva",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=253&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "falcons CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=629&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Fremont Bulls",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=4&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Fremont CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=328&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Fresno CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=145&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Fresno Cricket Club",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=694&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Guardians",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=222&clubId=1755"
-    },
-    {
-        "teamName": "Guardians",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=546&clubId=1755"
-    },
-    {
-        "teamName": "Guardians",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=605&clubId=1755"
-    },
-    {
-        "teamName": "Guardians",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=719&clubId=1755"
-    },
-    {
-        "teamName": "Guardians Kk",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=278&clubId=1755"
-    },
-    {
-        "teamName": "Guardians Kk",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=321&clubId=1755"
-    },
-    {
-        "teamName": "Guardians Krictaholics",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=353&clubId=1755"
-    },
-    {
-        "teamName": "Guardians Krictaholics",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=367&clubId=1755"
-    },
-    {
-        "teamName": "Guardians Krictaholics",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=425&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Hayward CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=134&clubId=1755"
-    },
-    {
-        "teamName": "Hayward Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=407&clubId=1755"
-    },
-    {
-        "teamName": "Hayward Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=547&clubId=1755"
-    },
-    {
-        "teamName": "Hayward Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=554&clubId=1755"
-    },
-    {
-        "teamName": "Hayward Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=628&clubId=1755"
-    },
-    {
-        "teamName": "Hayward Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=707&clubId=1755"
-    },
-    {
-        "teamName": "Hayward Lions A",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=434&clubId=1755"
-    },
-    {
-        "teamName": "Hayward Lions CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=329&clubId=1755"
-    },
-    {
-        "teamName": "Hayward Lions CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=354&clubId=1755"
-    },
-    {
-        "teamName": "Hayward Lions CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=380&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Jawani CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=322&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Khalsa Warriors",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=538&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Kings CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=279&clubId=1755"
-    },
-    {
-        "teamName": "Kings CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=337&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Lagaan",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=342&clubId=1755"
-    }
-],
-[],
-[
-    {
-        "teamName": "Lodi Zalmi CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=283&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Mcca",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=94&clubId=1755"
-    },
-    {
-        "teamName": "Mcca",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=137&clubId=1755"
-    },
-    {
-        "teamName": "Mcca",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=146&clubId=1755"
-    },
-    {
-        "teamName": "Mcca",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=157&clubId=1755"
-    },
-    {
-        "teamName": "Mcca",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=207&clubId=1755"
-    },
-    {
-        "teamName": "Mcca",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=255&clubId=1755"
-    },
-    {
-        "teamName": "Mcca",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=264&clubId=1755"
-    },
-    {
-        "teamName": "Mcca",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=395&clubId=1755"
-    },
-    {
-        "teamName": "MCCA",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=548&clubId=1755"
-    },
-    {
-        "teamName": "MCCA",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=555&clubId=1755"
-    },
-    {
-        "teamName": "MCCA",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=610&clubId=1755"
-    },
-    {
-        "teamName": "MCCA",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=634&clubId=1755"
-    },
-    {
-        "teamName": "MCCA",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=696&clubId=1755"
-    },
-    {
-        "teamName": "MCCA",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=708&clubId=1755"
-    },
-    {
-        "teamName": "Mcca - U13",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=292&clubId=1755"
-    },
-    {
-        "teamName": "Mcca - U16",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=290&clubId=1755"
-    },
-    {
-        "teamName": "Milpitas CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=152&clubId=1755"
-    },
-    {
-        "teamName": "Milpitas CC & Academy",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=355&clubId=1755"
-    },
-    {
-        "teamName": "Milpitas CC & Academy",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=368&clubId=1755"
-    },
-    {
-        "teamName": "Milpitas CC & Academy",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=400&clubId=1755"
-    },
-    {
-        "teamName": "Milpitas CC & Academy",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=420&clubId=1755"
-    },
-    {
-        "teamName": "Milpitas CC And Academy",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=323&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "California Rhinos",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=352&clubId=1755"
-    },
-    {
-        "teamName": "California Rhinos",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=426&clubId=1755"
-    },
-    {
-        "teamName": "Gorkha Legends",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=718&clubId=1755"
-    },
-    {
-        "teamName": "Nepal Rhinos",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=692&clubId=1755"
-    },
-    {
-        "teamName": "Nepal Rhinos CCC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=567&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Panthers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=410&clubId=1755"
-    },
-    {
-        "teamName": "Panthers CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=556&clubId=1755"
-    },
-    {
-        "teamName": "Panthers CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=624&clubId=1755"
-    },
-    {
-        "teamName": "Panthers CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=635&clubId=1755"
-    },
-    {
-        "teamName": "Panthers Cubs",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=411&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Panthers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=219&clubId=1755"
-    },
-    {
-        "teamName": "Sj Panthers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=343&clubId=1755"
-    },
-    {
-        "teamName": "Sj Panthers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=359&clubId=1755"
-    },
-    {
-        "teamName": "Sj Panthers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=383&clubId=1755"
-    },
-    {
-        "teamName": "Sj Panthers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=401&clubId=1755"
-    },
-    {
-        "teamName": "Sj Panthers CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=267&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Pashtuns XI California",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=709&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Phoenix CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=381&clubId=1755"
-    },
-    {
-        "teamName": "Phoenix CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=432&clubId=1755"
-    },
-    {
-        "teamName": "Phoenix CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=539&clubId=1755"
-    },
-    {
-        "teamName": "Phoenix CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=606&clubId=1755"
-    },
-    {
-        "teamName": "Phoenix CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=710&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Punjab Tigers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=592&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "California Rhinos",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=553&clubId=1755"
-    },
-    {
-        "teamName": "Richmond Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=356&clubId=1755"
-    },
-    {
-        "teamName": "Richmond Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=540&clubId=1755"
-    },
-    {
-        "teamName": "Richmond Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=557&clubId=1755"
-    },
-    {
-        "teamName": "Richmond Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=636&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Rising Stars",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=558&clubId=1755"
-    },
-    {
-        "teamName": "Rising Stars",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=625&clubId=1755"
-    },
-    {
-        "teamName": "Rising Stars",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=637&clubId=1755"
-    },
-    {
-        "teamName": "Rising Stars",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=697&clubId=1755"
-    },
-    {
-        "teamName": "rising stars CA",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=429&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Sfcc Baca",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=61&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=6&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=59&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=95&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=104&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=161&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=169&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=208&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=370&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=422&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=549&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=559&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=638&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung - Sbs Knights",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=280&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=257&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=266&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=310&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=311&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=338&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=357&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Everyoung CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=403&clubId=1755"
-    },
-    {
-        "teamName": "SJ Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=699&clubId=1755"
-    },
-    {
-        "teamName": "SJ Everyoung",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=711&clubId=1755"
-    },
-    {
-        "teamName": "Sj Everyoung CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=143&clubId=1755"
-    },
-    {
-        "teamName": "Sj Everyoung CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=285&clubId=1755"
-    },
-    {
-        "teamName": "SJ EverYoung CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=571&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Hayward Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=254&clubId=1755"
-    },
-    {
-        "teamName": "Sl Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=97&clubId=1755"
-    },
-    {
-        "teamName": "Sl Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=216&clubId=1755"
-    },
-    {
-        "teamName": "Sl Lions Kings",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=136&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Seamers CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=8&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Sbs",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=371&clubId=1755"
-    },
-    {
-        "teamName": "SBS",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=607&clubId=1755"
-    },
-    {
-        "teamName": "SBS",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=721&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Golden Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=284&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=330&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=632&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Demons CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=256&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Demons CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=265&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Demons CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=308&clubId=1755"
-    },
-    {
-        "teamName": "San Jose Demons CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=309&clubId=1755"
-    },
-    {
-        "teamName": "Sj Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=96&clubId=1755"
-    },
-    {
-        "teamName": "Sj Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=105&clubId=1755"
-    },
-    {
-        "teamName": "Sj Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=147&clubId=1755"
-    },
-    {
-        "teamName": "Sj Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=162&clubId=1755"
-    },
-    {
-        "teamName": "Sj Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=170&clubId=1755"
-    },
-    {
-        "teamName": "SJ Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=550&clubId=1755"
-    },
-    {
-        "teamName": "SJ Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=560&clubId=1755"
-    },
-    {
-        "teamName": "SJ Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=639&clubId=1755"
-    },
-    {
-        "teamName": "SJ Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=698&clubId=1755"
-    },
-    {
-        "teamName": "SJ Demons",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=722&clubId=1755"
-    },
-    {
-        "teamName": "Sj Demons CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=149&clubId=1755"
-    },
-    {
-        "teamName": "Sj Demons CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=358&clubId=1755"
-    },
-    {
-        "teamName": "Sj Demons CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=382&clubId=1755"
-    },
-    {
-        "teamName": "Sj Demons CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=402&clubId=1755"
-    },
-    {
-        "teamName": "Sj Demons CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=421&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Srca - U13",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=293&clubId=1755"
-    },
-    {
-        "teamName": "Srca - U16",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=291&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Stanford",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=9&clubId=1755"
-    },
-    {
-        "teamName": "Stanford",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=63&clubId=1755"
-    },
-    {
-        "teamName": "Stanford CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=220&clubId=1755"
-    },
-    {
-        "teamName": "Stanford CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=349&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Stockton Thunder",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=138&clubId=1755"
-    },
-    {
-        "teamName": "Stockton Thunder",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=163&clubId=1755"
-    },
-    {
-        "teamName": "Stockton Thunder",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=258&clubId=1755"
-    },
-    {
-        "teamName": "Stockton Thunder",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=312&clubId=1755"
-    },
-    {
-        "teamName": "Stockton Thunder",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=313&clubId=1755"
-    },
-    {
-        "teamName": "Stockton Thunder",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=324&clubId=1755"
-    },
-    {
-        "teamName": "Stockton Thunder",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=360&clubId=1755"
-    },
-    {
-        "teamName": "Stockton Thunder",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=404&clubId=1755"
-    },
-    {
-        "teamName": "Stockton Thunder",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=541&clubId=1755"
-    },
-    {
-        "teamName": "Stockton Thunder",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=700&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Sunnyvale Baca",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=10&clubId=1755"
-    },
-    {
-        "teamName": "Sunnyvale CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=98&clubId=1755"
-    },
-    {
-        "teamName": "Sunnyvale CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=106&clubId=1755"
-    },
-    {
-        "teamName": "Sunnyvale CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=209&clubId=1755"
-    },
-    {
-        "teamName": "Sunnyvale CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=259&clubId=1755"
-    },
-    {
-        "teamName": "Sunnyvale CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=268&clubId=1755"
-    },
-    {
-        "teamName": "Sunnyvale CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=331&clubId=1755"
-    },
-    {
-        "teamName": "Sunnyvale CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=435&clubId=1755"
-    },
-    {
-        "teamName": "Sunnyvale CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=630&clubId=1755"
-    },
-    {
-        "teamName": "Sunnyvale T20",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=713&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "The Unpredictables",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=286&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Thunderbolts",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=723&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Afghan Tigers",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=344&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=99&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=142&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=151&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=171&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=287&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=348&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Giants",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=325&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Giants",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=415&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=107&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=164&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=210&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=260&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=269&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=314&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=315&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=332&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=361&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Lions",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=384&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=67&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=108&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=165&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=211&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=261&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=270&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=316&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=317&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=339&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=362&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=372&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=405&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=414&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=561&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=575&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=640&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Niners",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=701&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts United",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=542&clubId=1755"
-    },
-    {
-        "teamName": "Thunderbolts Warriors",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=221&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Titans",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=12&clubId=1755"
-    },
-    {
-        "teamName": "Titans",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=100&clubId=1755"
-    },
-    {
-        "teamName": "Titans",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=217&clubId=1755"
-    },
-    {
-        "teamName": "Titans CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=281&clubId=1755"
-    },
-    {
-        "teamName": "Titans CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=345&clubId=1755"
-    },
-    {
-        "teamName": "Titans CC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=385&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Tracy United",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=144&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Tmcc",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=13&clubId=1755"
-    },
-    {
-        "teamName": "Tmcc",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=101&clubId=1755"
-    },
-    {
-        "teamName": "Tmcc",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=109&clubId=1755"
-    },
-    {
-        "teamName": "Tmcc",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=153&clubId=1755"
-    },
-    {
-        "teamName": "Tmcc",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=166&clubId=1755"
-    },
-    {
-        "teamName": "Tmcc",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=172&clubId=1755"
-    },
-    {
-        "teamName": "Tmcc",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=212&clubId=1755"
-    },
-    {
-        "teamName": "Tmcc",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=262&clubId=1755"
-    },
-    {
-        "teamName": "Tmcc",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=271&clubId=1755"
-    },
-    {
-        "teamName": "Tmcc",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=318&clubId=1755"
-    },
-    {
-        "teamName": "Tmcc",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=319&clubId=1755"
-    },
-    {
-        "teamName": "TMCC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=416&clubId=1755"
-    },
-    {
-        "teamName": "TMCC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=551&clubId=1755"
-    },
-    {
-        "teamName": "TMCC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=562&clubId=1755"
-    },
-    {
-        "teamName": "TMCC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=604&clubId=1755"
-    },
-    {
-        "teamName": "TMCC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=641&clubId=1755"
-    },
-    {
-        "teamName": "TMCC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=702&clubId=1755"
-    },
-    {
-        "teamName": "TMCC",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=724&clubId=1755"
-    },
-    {
-        "teamName": "Twelfth Man CC (tmcc)",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=326&clubId=1755"
-    },
-    {
-        "teamName": "Twelfth Man CC (tmcc)",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=363&clubId=1755"
-    },
-    {
-        "teamName": "Twelfth Man CC (tmcc)",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=373&clubId=1755"
-    },
-    {
-        "teamName": "Twelfth Man CC (tmcc)",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=406&clubId=1755"
-    },
-    {
-        "teamName": "Twelfth Man CC (tmcc) - 2",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=333&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "Warrior Sultans",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=374&clubId=1755"
-    }
-],
-[
-    {
-        "teamName": "West Coast United",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=563&clubId=1755"
-    },
-    {
-        "teamName": "West Coast United",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=590&clubId=1755"
-    },
-    {
-        "teamName": "West Coast United",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=642&clubId=1755"
-    },
-    {
-        "teamName": "West Coast United",
-        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=695&clubId=1755"
-    }
+  {
+    "clubName": "ADSK Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=32&clubId=1755"
+  },
+  {
+    "clubName": "Afghan Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=54&clubId=1755"
+  },
+  {
+    "clubName": "Afghan Zwanan CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=49&clubId=1755"
+  },
+  {
+    "clubName": "All Stars Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=40&clubId=1755"
+  },
+  {
+    "clubName": "Bay Area CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=58&clubId=1755"
+  },
+  {
+    "clubName": "Bay Area Disruptors",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=28&clubId=1755"
+  },
+  {
+    "clubName": "Bay Point Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=61&clubId=1755"
+  },
+  {
+    "clubName": "Bay Thunders",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=30&clubId=1755"
+  },
+  {
+    "clubName": "BD Royals CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=56&clubId=1755"
+  },
+  {
+    "clubName": "Bengals CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=59&clubId=1755"
+  },
+  {
+    "clubName": "Berkeley CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=2&clubId=1755"
+  },
+  {
+    "clubName": "Bradshaw CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=3&clubId=1755"
+  },
+  {
+    "clubName": "Butter Chicken Boys (BCB) CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=51&clubId=1755"
+  },
+  {
+    "clubName": "CA Eagles",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=4&clubId=1755"
+  },
+  {
+    "clubName": "CA INVINCIBLES CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=48&clubId=1755"
+  },
+  {
+    "clubName": "Cali Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=53&clubId=1755"
+  },
+  {
+    "clubName": "California Bears",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=33&clubId=1755"
+  },
+  {
+    "clubName": "California Cricket League (CCL)",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=1&clubId=1755"
+  },
+  {
+    "clubName": "California Super Kings",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=52&clubId=1755"
+  },
+  {
+    "clubName": "CCA Centurions",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=5&clubId=1755"
+  },
+  {
+    "clubName": "CricZeal",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=34&clubId=1755"
+  },
+  {
+    "clubName": "EYCA",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=29&clubId=1755"
+  },
+  {
+    "clubName": "Falcons Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=63&clubId=1755"
+  },
+  {
+    "clubName": "Fremont Bulls CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=6&clubId=1755"
+  },
+  {
+    "clubName": "Fremont Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=42&clubId=1755"
+  },
+  {
+    "clubName": "Fresno CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=7&clubId=1755"
+  },
+  {
+    "clubName": "Fresno Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=64&clubId=1755"
+  },
+  {
+    "clubName": "Guardians",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=35&clubId=1755"
+  },
+  {
+    "clubName": "Hayward Lions CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=8&clubId=1755"
+  },
+  {
+    "clubName": "Jawani Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=43&clubId=1755"
+  },
+  {
+    "clubName": "Khalsa Warriors",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=55&clubId=1755"
+  },
+  {
+    "clubName": "Kings Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=36&clubId=1755"
+  },
+  {
+    "clubName": "Lagaan CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=41&clubId=1755"
+  },
+  {
+    "clubName": "Lathrop CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=9&clubId=1755"
+  },
+  {
+    "clubName": "Lodi Zalmi CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=37&clubId=1755"
+  },
+  {
+    "clubName": "Milpitas CC and Academy",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=10&clubId=1755"
+  },
+  {
+    "clubName": "Nepal Rhinos California Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=46&clubId=1755"
+  },
+  {
+    "clubName": "Panthers Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=12&clubId=1755"
+  },
+  {
+    "clubName": "Pashtuns XI California",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=65&clubId=1755"
+  },
+  {
+    "clubName": "Phoenix CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=45&clubId=1755"
+  },
+  {
+    "clubName": "Punjab Tigers Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=62&clubId=1755"
+  },
+  {
+    "clubName": "Richmond lions",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=44&clubId=1755"
+  },
+  {
+    "clubName": "Rising Stars Cricket Academy",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=50&clubId=1755"
+  },
+  {
+    "clubName": "San Francisco CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=15&clubId=1755"
+  },
+  {
+    "clubName": "San Jose Everyoung CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=18&clubId=1755"
+  },
+  {
+    "clubName": "San Leandro Lions CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=13&clubId=1755"
+  },
+  {
+    "clubName": "Seamers",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=14&clubId=1755"
+  },
+  {
+    "clubName": "Shaheed Bhagat Singh",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=16&clubId=1755"
+  },
+  {
+    "clubName": "SJ Demons CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=17&clubId=1755"
+  },
+  {
+    "clubName": "SRCA",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=39&clubId=1755"
+  },
+  {
+    "clubName": "Stanford CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=19&clubId=1755"
+  },
+  {
+    "clubName": "Stockton Thunder",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=31&clubId=1755"
+  },
+  {
+    "clubName": "Sunnyvale CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=22&clubId=1755"
+  },
+  {
+    "clubName": "SVS Colts",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=23&clubId=1755"
+  },
+  {
+    "clubName": "The Unpredictables",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=38&clubId=1755"
+  },
+  {
+    "clubName": "Thunderbolts",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=24&clubId=1755"
+  },
+  {
+    "clubName": "Titans CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=25&clubId=1755"
+  },
+  {
+    "clubName": "Tracy United CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=26&clubId=1755"
+  },
+  {
+    "clubName": "Twelfth Man CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=27&clubId=1755"
+  },
+  {
+    "clubName": "Warrion Sultan CC",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=47&clubId=1755"
+  },
+  {
+    "clubName": "West Coast United",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=57&clubId=1755"
+  }
 ]
