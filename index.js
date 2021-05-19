@@ -41,6 +41,10 @@ async function fetchteam() {
     }
     console.log("this is resultTeam", resultTeam);
     var updatedJSON = [];
+    updatedJSON.push(
+      clubs.map((c, i) => Object.assign(c, { allTeams: resultTeam[i] }))
+    );
+    console.log("this is updatedJSON", updatedJSON);
     fs.readFile("./filter.json", "utf8", (err, jsonString) => {
       if (jsonString) {
         console.log("File data:", jsonString);
@@ -48,13 +52,6 @@ async function fetchteam() {
         fs.writeFile("./filter.json", JSON.stringify(updatedJSON), (err) => {
           if (err) {
             console.log("write error: " + err);
-          } else {
-            updatedJSON.push(
-              clubs.map((c, i) =>
-                Object.assign(c, { allTeams: JSON.stringify(resultTeam[i]) })
-              )
-            );
-            console.log("this is updatedJSON", updatedJSON);
           }
         });
       } else {
