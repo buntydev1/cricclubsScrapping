@@ -36,15 +36,15 @@ console.log("this is clubData", clubData);
     );
     // console.log(allLink);
 
-    // var uniqueArray = JSON.stringify(allLink);
+    var uniqueArray = JSON.stringify(allLink);
 
-    // fs.writeFile("./filter.json", uniqueArray, function (error) {
-    //   if (error) {
-    //     console.error("write error:  " + error.message);
-    //   } else {
-    //     console.log("Successful Write to ");
-    //   }
-    // });
+    fs.writeFile("./filter.json", uniqueArray, function (error) {
+      if (error) {
+        console.error("write error:  " + error.message);
+      } else {
+        console.log("Successful Write to ");
+      }
+    });
 
     const links = [];
     for (i = 0; i < 61; i++) {

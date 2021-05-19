@@ -40,6 +40,27 @@ async function fetchteam() {
       resultTeam.push(allTeam);
     }
     console.log("this is resultTeam", resultTeam);
+    var updatedJSON = [];
+    fs.readFile("./filter.json", "utf8", (err, jsonString) => {
+      if (jsonString) {
+        console.log("File data:", jsonString);
+
+        fs.writeFile("./filter.json", JSON.stringify(updatedJSON), (err) => {
+          if (err) {
+            console.log("write error: " + err);
+          } else {
+            updatedJSON.push(
+              clubs.map((c, i) =>
+                Object.assign(c, { allTeams: JSON.stringify(resultTeam[i]) })
+              )
+            );
+            console.log("this is updatedJSON", updatedJSON);
+          }
+        });
+      } else {
+        console.log("File read failed:", err);
+      }
+    });
   } catch (err) {
     console.log("Could not create a browser instance => :", err);
   }
