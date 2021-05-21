@@ -91,18 +91,22 @@ async function fetchPlayers() {
     console.log("opening the browser.....");
     browser = await puppeteer.launch({
       headless: false,
-      // excetuablePath:
-      //   "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
     });
     const page = await browser.newPage();
+    var totalPlayers = [];
+
     for (i = 0; i < allTeamURL.length; i++) {
       await page.goto(allTeamURL[i]);
-      await page.waitForSelector("container:nth-child(2)");
-      const noOfPlayers = await page.$$eval(
-        "div.match-summary > div.row > div.col-sm-10.col-sm-offset-2 > div.match-in-summary > div.row > div:nth-child(2) > div.team-text-in.text-left > p:nth-child(4)"
-      ).innerText;
-      console.log("this is noOFPlayers", noOfPlayers);
+      await page.waitForSelector("div.score-top");
+
+      var noOfPlayers = await page.$eval(
+        " div.container > div.match-summary > div.row > div.col-sm-10.col-sm-offset-2 > div.match-in-summary > div.row > div:nth-child(2) > div.team-text-in.text-left > p:nth-child(4)",
+        (e) => e.innerText
+      );
+      totalPlayers.push(noOfPlayers);
     }
+
+    console.log("this is totalPlayers", totalPlayers);
   } catch (err) {
     console.log("Could not create a browser instance => :", err);
   }

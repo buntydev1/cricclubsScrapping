@@ -432,10 +432,6 @@
         },
         {
           "teamName": "California Eagles",
-          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=2&clubId=1755"
-        },
-        {
-          "teamName": "California Eagles",
           "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=103&clubId=1755"
         },
         {
@@ -584,10 +580,6 @@
       "allTeams": [
         {
           "teamName": "Cca Centurions",
-          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=3&clubId=1755"
-        },
-        {
-          "teamName": "Cca Centurions",
           "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=218&clubId=1755"
         }
       ]
@@ -647,16 +639,6 @@
         {
           "teamName": "falcons CC",
           "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=629&clubId=1755"
-        }
-      ]
-    },
-    {
-      "clubName": "Fremont Bulls CC",
-      "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=6&clubId=1755",
-      "allTeams": [
-        {
-          "teamName": "Fremont Bulls",
-          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=4&clubId=1755"
         }
       ]
     },
@@ -822,11 +804,7 @@
         }
       ]
     },
-    {
-      "clubName": "Lathrop CC",
-      "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=9&clubId=1755",
-      "allTeams": []
-    },
+
     {
       "clubName": "Lodi Zalmi CC",
       "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=37&clubId=1755",
@@ -1121,10 +1099,6 @@
       "allTeams": [
         {
           "teamName": "San Jose Everyoung",
-          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=6&clubId=1755"
-        },
-        {
-          "teamName": "San Jose Everyoung",
           "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=59&clubId=1755"
         },
         {
@@ -1240,16 +1214,6 @@
         {
           "teamName": "Sl Lions Kings",
           "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=136&clubId=1755"
-        }
-      ]
-    },
-    {
-      "clubName": "Seamers",
-      "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=14&clubId=1755",
-      "allTeams": [
-        {
-          "teamName": "Seamers CC",
-          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=8&clubId=1755"
         }
       ]
     },
@@ -1385,10 +1349,6 @@
       "allTeams": [
         {
           "teamName": "Stanford",
-          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=9&clubId=1755"
-        },
-        {
-          "teamName": "Stanford",
           "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=63&clubId=1755"
         },
         {
@@ -1451,10 +1411,6 @@
       "clubName": "Sunnyvale CC",
       "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=22&clubId=1755",
       "allTeams": [
-        {
-          "teamName": "Sunnyvale Baca",
-          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=10&clubId=1755"
-        },
         {
           "teamName": "Sunnyvale CC",
           "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=98&clubId=1755"
@@ -1676,10 +1632,6 @@
       "allTeams": [
         {
           "teamName": "Titans",
-          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=12&clubId=1755"
-        },
-        {
-          "teamName": "Titans",
           "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=100&clubId=1755"
         },
         {
@@ -1714,10 +1666,6 @@
       "clubName": "Twelfth Man CC",
       "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=27&clubId=1755",
       "allTeams": [
-        {
-          "teamName": "Tmcc",
-          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=13&clubId=1755"
-        },
         {
           "teamName": "Tmcc",
           "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=101&clubId=1755"
