@@ -17,6 +17,28 @@
           "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=423&clubId=1755"
         }
       ]
+    },
+    {
+      "clubName": "Afghan Cricket Club",
+      "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=54&clubId=1755",
+      "allTeams": [
+        {
+          "teamName": "Afghan (ACC)",
+          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=433&clubId=1755"
+        },
+        {
+          "teamName": "Afghan CC",
+          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=543&clubId=1755"
+        },
+        {
+          "teamName": "Afghan CC",
+          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=595&clubId=1755"
+        },
+        {
+          "teamName": "Afghan Zalmi",
+          "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=375&clubId=1755"
+        }
+      ]
     }
   ]
 ]

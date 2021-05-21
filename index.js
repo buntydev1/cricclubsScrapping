@@ -3,12 +3,23 @@ const fs = require("fs");
 
 const clubs = require("./filter.json");
 
+// var allTeamURL = [];
+// clubs.forEach((club) => {
+//   Object.values(club).forEach((team) => {
+//     for (i = 0; i < team.allTeams.length; i++) {
+//       allTeamURL.push(team.allTeams[i]);
+//     }
+//     console.log("this is allTeamURL", allTeamURL);
+//   });
+// });
+var allTeamURL = [];
 clubs.forEach((club) => {
   Object.values(club).forEach((team) => {
     for (i = 0; i < team.allTeams.length; i++) {
-      console.log(team.allTeams[i].teamURL);
+      allTeamURL.push(team.allTeams[i].teamURL);
     }
   });
+  console.log(" this is allTeamURL", allTeamURL);
 });
 
 // fetchteam();
@@ -33,7 +44,7 @@ clubs.forEach((club) => {
 //       const club = clubs[i];
 
 //       await page.goto(club.clubUrl);
-//       await page.waitForSelector("tbody");
+//      await page.waitForSelector("tbody");
 //       const allTeam = await page.$$eval(
 //         "tbody:nth-child(2) tr > td:nth-child(2) a",
 //         (teams) => {
@@ -84,8 +95,14 @@ async function fetchPlayers() {
       //   "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
     });
     const page = await browser.newPage();
-    await page.goto();
-    console.log("this is team");
+    for (i = 0; i < allTeamURL.length; i++) {
+      await page.goto(allTeamURL[i]);
+      await page.waitForSelector("container:nth-child(2)");
+      const noOfPlayers = await page.$$eval(
+        "div.match-summary > div.row > div.col-sm-10.col-sm-offset-2 > div.match-in-summary > div.row > div:nth-child(2) > div.team-text-in.text-left > p:nth-child(4)"
+      ).innerText;
+      console.log("this is noOFPlayers", noOfPlayers);
+    }
   } catch (err) {
     console.log("Could not create a browser instance => :", err);
   }
