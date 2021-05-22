@@ -105,8 +105,18 @@ async function fetchPlayers() {
       );
       totalPlayers.push(noOfPlayers);
     }
+    var extractedPlayer = [];
+    for (i = 0; i < totalPlayers.length; i++) {
+      extractedPlayer.push(totalPlayers[i].replace("PLAYER COUNT : ", ""));
+    }
+    console.log("this is extractedPlayer", extractedPlayer);
 
     console.log("this is totalPlayers", totalPlayers);
+    fs.writeFile("./sample2.json", JSON.stringify(extractedPlayer), (err) => {
+      if (err) {
+        console.log("write error: " + err);
+      }
+    });
   } catch (err) {
     console.log("Could not create a browser instance => :", err);
   }
