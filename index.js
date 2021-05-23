@@ -111,8 +111,8 @@ async function fetchPlayers() {
     }
     console.log("this is extractedPlayer", extractedPlayer);
 
-    console.log("this is totalPlayers", totalPlayers);
-    fs.writeFile("./sample2.json", JSON.stringify(extractedPlayer), (err) => {
+    // console.log("this is totalPlayers", totalPlayers);
+    fs.writeFile("./sample3.json", JSON.stringify(extractedPlayer), (err) => {
       if (err) {
         console.log("write error: " + err);
       }
