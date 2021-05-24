@@ -45,11 +45,7 @@ const clubs = require("./filter.json");
         };
       })
     );
-    // fs.writeFile("./filter1.json", JSON.stringify(clubResult), (err) => {
-    //   if (err) {
-    //     console.log("write error: " + err);
-    //   }
-    // });
+
     fs.readFile("./filter.json", "utf8", (err, jsonString) => {
       if (jsonString) {
         console.log("File data:", jsonString);

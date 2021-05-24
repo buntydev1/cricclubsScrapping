@@ -1,4 +1,4 @@
-const clubs = require("./sample1.json");
+const clubs = require("./sample2.json");
 
 const puppeteer = require("puppeteer");
 const fs = require("fs");
@@ -27,10 +27,29 @@ const fs = require("fs");
           ""
         );
       }
-      console.log("this is extractedPlayer", playerListNumber[i]);
+      console.log(playerListNumber);
+
       return playerListNumber;
     }
+    async function fetchPlayerName(url) {
+      const page = await browser.newPage();
+      await page.goto(url, { waitUntil: "load", timeout: 0 });
+      await page.waitForSelector("div.panel-body");
 
+      var allPlayerName = await page.$$eval(
+        "div.tab-content > div.tab-pane.fade.in.active > div.row > #playersearchdiv > div.col-sm-3 > div.team-player-all > div.team-player-text.text-center > h4 ",
+        (allPlayers) => {
+          return allPlayers.map((player) => {
+            return (obj = {
+              PlayerName: player.innerText,
+            });
+          });
+        }
+      );
+
+      console.log("this is allPlayerName", allPlayerName);
+      return allPlayerName;
+    }
     const clubResult = await Promise.all(
       clubs.map(async (club) => {
         return {
@@ -40,13 +59,16 @@ const fs = require("fs");
               return {
                 ...team,
                 playerCount: await fetchPlayerCount(team.teamURL),
+
+                listOfPlayer: await fetchPlayerName(team.teamURL),
               };
             })
           ),
         };
       })
     );
-    fs.writeFile("./sample22.json", JSON.stringify(clubResult), (err) => {
+
+    fs.writeFile("./sample7.json", JSON.stringify(clubResult), (err) => {
       if (err) {
         console.log("write error: " + err);
       }
