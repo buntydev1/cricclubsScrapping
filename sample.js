@@ -1,4 +1,4 @@
-const clubs = require("./sample2.json");
+const clubs = require("./filter11.json");
 
 const puppeteer = require("puppeteer");
 const fs = require("fs");
@@ -10,27 +10,27 @@ const fs = require("fs");
     browser = await puppeteer.launch({
       headless: false,
     });
-    async function fetchPlayerCount(url) {
-      const page = await browser.newPage();
-      await page.goto(url, { waitUntil: "load", timeout: 0 });
-      await page.waitForSelector("div.score-top");
-      var playerListCount = [];
-      var noOfPlayers = await page.$eval(
-        " div.container > div.match-summary > div.row > div.col-sm-10.col-sm-offset-2 > div.match-in-summary > div.row > div:nth-child(2) > div.team-text-in.text-left > p:nth-child(4)",
-        (e) => e.innerText
-      );
-      playerListCount.push(noOfPlayers);
-      var playerListNumber;
-      for (i = 0; i < playerListCount.length; i++) {
-        var playerListNumber = playerListCount[i].replace(
-          "PLAYER COUNT : ",
-          ""
-        );
-      }
-      console.log(playerListNumber);
+    // async function fetchPlayerCount(url) {
+    //   const page = await browser.newPage();
+    //   await page.goto(url, { waitUntil: "load", timeout: 0 });
+    //   await page.waitForSelector("div.score-top");
+    //   var playerListCount = [];
+    //   var noOfPlayers = await page.$eval(
+    //     " div.container > div.match-summary > div.row > div.col-sm-10.col-sm-offset-2 > div.match-in-summary > div.row > div:nth-child(2) > div.team-text-in.text-left > p:nth-child(4)",
+    //     (e) => e.innerText
+    //   );
+    //   playerListCount.push(noOfPlayers);
+    //   var playerListNumber;
+    //   for (i = 0; i < playerListCount.length; i++) {
+    //     var playerListNumber = playerListCount[i].replace(
+    //       "PLAYER COUNT : ",
+    //       ""
+    //     );
+    //   }
+    //   console.log(playerListNumber);
 
-      return playerListNumber;
-    }
+    //   return playerListNumber;
+    // }
     async function fetchPlayerName(url) {
       const page = await browser.newPage();
       await page.goto(url, { waitUntil: "load", timeout: 0 });
@@ -58,7 +58,7 @@ const fs = require("fs");
             club.allTeams.map(async (team) => {
               return {
                 ...team,
-                playerCount: await fetchPlayerCount(team.teamURL),
+                // playerCount: await fetchPlayerCount(team.teamURL),
 
                 listOfPlayer: await fetchPlayerName(team.teamURL),
               };
@@ -68,7 +68,7 @@ const fs = require("fs");
       })
     );
 
-    fs.writeFile("./sample7.json", JSON.stringify(clubResult), (err) => {
+    fs.writeFile("./filter11json", JSON.stringify(clubResult), (err) => {
       if (err) {
         console.log("write error: " + err);
       }
