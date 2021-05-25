@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-const clubs = require("./filter.json");
+const clubs = require("./BACA.json");
 // var listOfClubs = clubs.map((el) => el);
 clubs.map((el) => {
   return el.clubUrl;
@@ -38,7 +38,7 @@ console.log("this is clubData", clubData);
 
     var uniqueArray = JSON.stringify(allLink);
 
-    fs.writeFile("./filter.json", uniqueArray, function (error) {
+    fs.writeFile("./BACA.json", uniqueArray, function (error) {
       if (error) {
         console.error("write error:  " + error.message);
       } else {
@@ -77,11 +77,11 @@ console.log("this is clubData", clubData);
       return jsonClubData.push(c);
     });
     var newJSON = [];
-    fs.readFile("./filter.json", "utf8", (err, jsonString) => {
+    fs.readFile("./BACA.json", "utf8", (err, jsonString) => {
       if (jsonString) {
         console.log("File data:", jsonString);
 
-        fs.writeFile("./filter.json", JSON.stringify(newJSON), (err) => {
+        fs.writeFile("./BACA5.json", JSON.stringify(newJSON), (err) => {
           if (jsonClubData === resultTeam.teamURL) {
           } else {
             console.log("write error: " + err);
