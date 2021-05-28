@@ -1,4 +1,4 @@
-const clubs = require("./sample1.json");
+const clubs = require("./BACA.json");
 
 const puppeteer = require("puppeteer");
 const fs = require("fs");
