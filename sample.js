@@ -1,4 +1,4 @@
-const clubs = require("./filter11.json");
+const clubs = require("./sample1.json");
 
 const puppeteer = require("puppeteer");
 const fs = require("fs");
@@ -35,21 +35,20 @@ const fs = require("fs");
       const page = await browser.newPage();
       await page.goto(url, { waitUntil: "load", timeout: 0 });
       await page.waitForSelector("div.panel-body");
-
-      var allPlayerName = await page.$$eval(
-        "div.tab-content > div.tab-pane.fade.in.active > div.row > #playersearchdiv > div.col-sm-3 > div.team-player-all > div.team-player-text.text-center > h4 ",
-        (allPlayers) => {
-          return allPlayers.map((player) => {
+      const roles = await page.$$eval(
+        "div.tab-content > div.tab-pane.fade.in.active > div.row > #playersearchdiv > div.col-sm-3 > div.team-player-all > div.team-player-text ",
+        (allRoles) => {
+          return allRoles.map((roleStat) => {
             return (obj = {
-              PlayerName: player.innerText,
+              name: roleStat.querySelector("h4").innerText,
+              playerRole: roleStat.querySelector("h5").innerText,
             });
           });
         }
       );
-
-      console.log("this is allPlayerName", allPlayerName);
-      return allPlayerName;
+      return roles;
     }
+
     const clubResult = await Promise.all(
       clubs.map(async (club) => {
         return {
@@ -68,7 +67,7 @@ const fs = require("fs");
       })
     );
 
-    fs.writeFile("./filter11json", JSON.stringify(clubResult), (err) => {
+    fs.writeFile("./sample7.json", JSON.stringify(clubResult), (err) => {
       if (err) {
         console.log("write error: " + err);
       }
