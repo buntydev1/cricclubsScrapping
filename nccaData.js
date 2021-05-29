@@ -1,7 +1,7 @@
 const puppeteer = require("puppeteer");
 const fs = require("fs");
 
-const clubs = require("./nccaData.json");
+const clubs = require("./NCCAPlayerCount.json");
 
 (async (clubs) => {
   let browser;
@@ -10,26 +10,43 @@ const clubs = require("./nccaData.json");
     browser = await puppeteer.launch({
       headless: false,
     });
-    async function fetchPlayerCount(url) {
+    // async function fetchPlayerCount(url) {
+    //   const page = await browser.newPage();
+    //   await page.goto(url, { waitUntil: "load", timeout: 0 });
+    //   await page.waitForSelector("div.score-top");
+    //   var playerListCount = [];
+    //   var noOfPlayers = await page.$eval(
+    //     " div.container > div.match-summary > div.row > div.col-sm-10.col-sm-offset-2 > div.match-in-summary > div.row > div:nth-child(2) > div.team-text-in.text-left > p:nth-child(4)",
+    //     (e) => e.innerText
+    //   );
+    //   playerListCount.push(noOfPlayers);
+    //   var playerListNumber;
+    //   for (i = 0; i < playerListCount.length; i++) {
+    //     var playerListNumber = playerListCount[i].replace(
+    //       "PLAYER COUNT : ",
+    //       ""
+    //     );
+    //   }
+    //   console.log(playerListNumber);
+
+    //   return playerListNumber;
+    // }
+    async function fetchPlayerName(url) {
       const page = await browser.newPage();
       await page.goto(url, { waitUntil: "load", timeout: 0 });
-      await page.waitForSelector("div.score-top");
-      var playerListCount = [];
-      var noOfPlayers = await page.$eval(
-        " div.container > div.match-summary > div.row > div.col-sm-10.col-sm-offset-2 > div.match-in-summary > div.row > div:nth-child(2) > div.team-text-in.text-left > p:nth-child(4)",
-        (e) => e.innerText
+      await page.waitForSelector("div.panel-body");
+      const roles = await page.$$eval(
+        "div.tab-content > div.tab-pane.fade.in.active > div.row > #playersearchdiv > div.col-sm-3 > div.team-player-all > div.team-player-text ",
+        (allRoles) => {
+          return allRoles.map((roleStat) => {
+            return (obj = {
+              name: roleStat.querySelector("h4").innerText,
+              playerRole: roleStat.querySelector("h5").innerText,
+            });
+          });
+        }
       );
-      playerListCount.push(noOfPlayers);
-      var playerListNumber;
-      for (i = 0; i < playerListCount.length; i++) {
-        var playerListNumber = playerListCount[i].replace(
-          "PLAYER COUNT : ",
-          ""
-        );
-      }
-      console.log(playerListNumber);
-
-      return playerListNumber;
+      return roles;
     }
 
     const clubResult = await Promise.all(
@@ -42,7 +59,7 @@ const clubs = require("./nccaData.json");
                 ...team,
                 // playerCount: await fetchPlayerCount(team.teamURL),
 
-                listOfPlayer: await fetchPlayerCount(team.teamURL),
+                listOfPlayer: await fetchPlayerName(team.teamURL),
               };
             })
           ),
@@ -50,15 +67,11 @@ const clubs = require("./nccaData.json");
       })
     );
 
-    fs.writeFile(
-      "./NCCAPlayerCount.json",
-      JSON.stringify(clubResult),
-      (err) => {
-        if (err) {
-          console.log("write error: " + err);
-        }
+    fs.writeFile("./NCCAPlayerName.json", JSON.stringify(clubResult), (err) => {
+      if (err) {
+        console.log("write error: " + err);
       }
-    );
+    });
   } catch (err) {
     console.log("Could not create a browser instance => :", err);
   }
