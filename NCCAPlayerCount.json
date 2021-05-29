@@ -1,0 +1,2430 @@
+[
+  {
+    "clubName": "Afghan Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=49&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Afghan Zwanan",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=791&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Davis CC 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=110&clubId=1191",
+        "playerCount": "19"
+      }
+    ]
+  },
+  {
+    "clubName": "All Stars Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=15&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "All Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=431&clubId=1191",
+        "playerCount": "17"
+      },
+      {
+        "teamName": "All Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=658&clubId=1191",
+        "playerCount": "56"
+      },
+      {
+        "teamName": "All Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=888&clubId=1191",
+        "playerCount": "59"
+      },
+      {
+        "teamName": "All Stars CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=362&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "All Stars CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=419&clubId=1191",
+        "playerCount": "23"
+      },
+      {
+        "teamName": "All Stars CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=514&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "All Stars CC T20",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=397&clubId=1191",
+        "playerCount": "30"
+      },
+      {
+        "teamName": "All Stars Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=311&clubId=1191",
+        "playerCount": "24"
+      },
+      {
+        "teamName": "All Stars Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=438&clubId=1191",
+        "playerCount": "33"
+      },
+      {
+        "teamName": "All Stars Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=463&clubId=1191",
+        "playerCount": "29"
+      },
+      {
+        "teamName": "All Stars Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=572&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "All Stars Giants",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=626&clubId=1191",
+        "playerCount": "21"
+      },
+      {
+        "teamName": "All Stars Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=323&clubId=1191",
+        "playerCount": "21"
+      },
+      {
+        "teamName": "All Stars Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=439&clubId=1191",
+        "playerCount": "20"
+      },
+      {
+        "teamName": "All Stars Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=611&clubId=1191",
+        "playerCount": "23"
+      },
+      {
+        "teamName": "All Stars Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=710&clubId=1191",
+        "playerCount": "65"
+      },
+      {
+        "teamName": "All Stars Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=775&clubId=1191",
+        "playerCount": "34"
+      },
+      {
+        "teamName": "All Stars Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=803&clubId=1191",
+        "playerCount": "34"
+      },
+      {
+        "teamName": "All Stars United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=456&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "All Stars United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=464&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "All Stars United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=544&clubId=1191",
+        "playerCount": "44"
+      },
+      {
+        "teamName": "All Stars United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=606&clubId=1191",
+        "playerCount": "44"
+      },
+      {
+        "teamName": "All Stars United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=683&clubId=1191",
+        "playerCount": "71"
+      },
+      {
+        "teamName": "All Stars United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=794&clubId=1191",
+        "playerCount": "62"
+      },
+      {
+        "teamName": "All Stars United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=908&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Sahara All Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=557&clubId=1191",
+        "playerCount": "31"
+      },
+      {
+        "teamName": "Sahara All Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=629&clubId=1191",
+        "playerCount": "30"
+      },
+      {
+        "teamName": "Sahara All Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=684&clubId=1191",
+        "playerCount": "42"
+      },
+      {
+        "teamName": "Sahara All Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=909&clubId=1191",
+        "playerCount": "47"
+      }
+    ]
+  },
+  {
+    "clubName": "BA All Stars Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=22&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Bay Area All Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=324&clubId=1191",
+        "playerCount": "34"
+      },
+      {
+        "teamName": "Bay Area Qalandars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=400&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Ccl Qalandars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=453&clubId=1191",
+        "playerCount": "37"
+      }
+    ]
+  },
+  {
+    "clubName": "Bay Area Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=14&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "BA Berkeley",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=906&clubId=1191",
+        "playerCount": "31"
+      },
+      {
+        "teamName": "BA Bravehearts",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=686&clubId=1191",
+        "playerCount": "64"
+      },
+      {
+        "teamName": "BA Bravehearts",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=913&clubId=1191",
+        "playerCount": "26"
+      },
+      {
+        "teamName": "BA Bravos",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=897&clubId=1191",
+        "playerCount": "22"
+      },
+      {
+        "teamName": "Bay Area Bravehearts",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=312&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Bay Area Bravehearts",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=440&clubId=1191",
+        "playerCount": "36"
+      },
+      {
+        "teamName": "Bay Area Bravehearts",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=545&clubId=1191",
+        "playerCount": "52"
+      },
+      {
+        "teamName": "Bay Area Bravehearts",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=554&clubId=1191",
+        "playerCount": "35"
+      },
+      {
+        "teamName": "Bay Area Bravehearts",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=607&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "Bay Area Bravehearts",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=612&clubId=1191",
+        "playerCount": "54"
+      },
+      {
+        "teamName": "Bay Area Bravehearts",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=776&clubId=1191",
+        "playerCount": "56"
+      },
+      {
+        "teamName": "Bay Area Bravehearts T20",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=398&clubId=1191",
+        "playerCount": "41"
+      },
+      {
+        "teamName": "Bay Area Bravos",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=325&clubId=1191",
+        "playerCount": "36"
+      },
+      {
+        "teamName": "Bay Area Bravos",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=363&clubId=1191",
+        "playerCount": "23"
+      },
+      {
+        "teamName": "Bay Area Bravos",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=420&clubId=1191",
+        "playerCount": "22"
+      },
+      {
+        "teamName": "Bay Area Bravos",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=441&clubId=1191",
+        "playerCount": "29"
+      },
+      {
+        "teamName": "Bay Area Bravos",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=523&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Bay Area Bravos",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=551&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Bay Area Bravos",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=588&clubId=1191",
+        "playerCount": "25"
+      },
+      {
+        "teamName": "Bay Area Bravos",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=613&clubId=1191",
+        "playerCount": "42"
+      },
+      {
+        "teamName": "Bay Area Bravos",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=667&clubId=1191",
+        "playerCount": "31"
+      },
+      {
+        "teamName": "Bay Area Bravos",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=777&clubId=1191",
+        "playerCount": "29"
+      }
+    ]
+  },
+  {
+    "clubName": "Bay Thunders",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=50&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Bay Area Disruptors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=633&clubId=1191",
+        "playerCount": "23"
+      },
+      {
+        "teamName": "Bay Area Disruptors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=705&clubId=1191",
+        "playerCount": "35"
+      },
+      {
+        "teamName": "Bay Area Disruptors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=778&clubId=1191",
+        "playerCount": "64"
+      },
+      {
+        "teamName": "Bay Area Disruptors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=875&clubId=1191",
+        "playerCount": "70"
+      },
+      {
+        "teamName": "Bay Thunders Challengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=632&clubId=1191",
+        "playerCount": "31"
+      },
+      {
+        "teamName": "Bay Thunders Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=706&clubId=1191",
+        "playerCount": "41"
+      },
+      {
+        "teamName": "Odisha CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=882&clubId=1191",
+        "playerCount": "25"
+      }
+    ]
+  },
+  {
+    "clubName": "BD Royals",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=58&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "BD Royals",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=884&clubId=1191",
+        "playerCount": "22"
+      }
+    ]
+  },
+  {
+    "clubName": "Bengal CC",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=59&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Bengal CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=885&clubId=1191",
+        "playerCount": "22"
+      }
+    ]
+  },
+  {
+    "clubName": "Berkeley Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=19&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Berkeley",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=524&clubId=1191",
+        "playerCount": "44"
+      },
+      {
+        "teamName": "Berkeley",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=668&clubId=1191",
+        "playerCount": "59"
+      },
+      {
+        "teamName": "Berkeley Prime",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=364&clubId=1191",
+        "playerCount": "36"
+      },
+      {
+        "teamName": "Berkeley Prime",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=421&clubId=1191",
+        "playerCount": "34"
+      },
+      {
+        "teamName": "Berkeley Prime",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=589&clubId=1191",
+        "playerCount": "31"
+      }
+    ]
+  },
+  {
+    "clubName": "BSPs Golden Warriors",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=54&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Bsps Golden Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=637&clubId=1191",
+        "playerCount": "28"
+      }
+    ]
+  },
+  {
+    "clubName": "California CoverDrive Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=31&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "California Coverdrive",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=404&clubId=1191",
+        "playerCount": "44"
+      }
+    ]
+  },
+  {
+    "clubName": "California Cricket Academy (CCA)",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=40&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Cca Centurions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=494&clubId=1191",
+        "playerCount": "14"
+      },
+      {
+        "teamName": "Cca Centurions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=639&clubId=1191",
+        "playerCount": "20"
+      },
+      {
+        "teamName": "Cca Falcons",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=495&clubId=1191",
+        "playerCount": "18"
+      },
+      {
+        "teamName": "Cca Pros",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=501&clubId=1191",
+        "playerCount": "18"
+      },
+      {
+        "teamName": "Cca Pros",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=643&clubId=1191",
+        "playerCount": "14"
+      },
+      {
+        "teamName": "Cca Sixers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=502&clubId=1191",
+        "playerCount": "18"
+      },
+      {
+        "teamName": "Cca Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=508&clubId=1191",
+        "playerCount": "14"
+      },
+      {
+        "teamName": "Cca Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=649&clubId=1191",
+        "playerCount": "16"
+      },
+      {
+        "teamName": "Cca Suns",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=509&clubId=1191",
+        "playerCount": "14"
+      },
+      {
+        "teamName": "Cca-dsca",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=653&clubId=1191",
+        "playerCount": "20"
+      }
+    ]
+  },
+  {
+    "clubName": "California Cricket League (CCL)",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=47&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "California Zalmi",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=574&clubId=1191",
+        "playerCount": "42"
+      },
+      {
+        "teamName": "California Zalmi",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=624&clubId=1191",
+        "playerCount": "44"
+      },
+      {
+        "teamName": "California Zalmi",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=699&clubId=1191",
+        "playerCount": "57"
+      },
+      {
+        "teamName": "California Zalmi",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=779&clubId=1191",
+        "playerCount": "54"
+      }
+    ]
+  },
+  {
+    "clubName": "Cardinals Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=9&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Cardinals Hollywood CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=121&clubId=1191",
+        "playerCount": "23"
+      }
+    ]
+  },
+  {
+    "clubName": "Central Valley Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=1&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Central Valley 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=430&clubId=1191",
+        "playerCount": "16"
+      },
+      {
+        "teamName": "Central Valley CC 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=122&clubId=1191",
+        "playerCount": "16"
+      },
+      {
+        "teamName": "Central Valley Challengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=376&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Central Valley Challengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=537&clubId=1191",
+        "playerCount": "48"
+      },
+      {
+        "teamName": "Central Valley-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=365&clubId=1191",
+        "playerCount": "19"
+      },
+      {
+        "teamName": "Central Valley-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=422&clubId=1191",
+        "playerCount": "16"
+      },
+      {
+        "teamName": "Central Valley-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=525&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Central Valley-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=665&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Central Valley-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=902&clubId=1191",
+        "playerCount": "43"
+      },
+      {
+        "teamName": "CV Challengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=678&clubId=1191",
+        "playerCount": "53"
+      },
+      {
+        "teamName": "CV Kings",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=921&clubId=1191",
+        "playerCount": "51"
+      }
+    ]
+  },
+  {
+    "clubName": "Cougars Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=5&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Cougars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=442&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Cougars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=615&clubId=1191",
+        "playerCount": "41"
+      },
+      {
+        "teamName": "Cougars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=707&clubId=1191",
+        "playerCount": "52"
+      },
+      {
+        "teamName": "Cougars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=780&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "Cougars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=876&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "Cougars 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=434&clubId=1191",
+        "playerCount": "13"
+      },
+      {
+        "teamName": "Cougars 2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=433&clubId=1191",
+        "playerCount": "22"
+      },
+      {
+        "teamName": "Cougars CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=326&clubId=1191",
+        "playerCount": "34"
+      },
+      {
+        "teamName": "Cougars CC 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=123&clubId=1191",
+        "playerCount": "22"
+      },
+      {
+        "teamName": "Cougars CC 2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=166&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Cougars CC T20",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=401&clubId=1191",
+        "playerCount": "57"
+      },
+      {
+        "teamName": "Cougars Thunderbolts",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=928&clubId=1191",
+        "playerCount": "46"
+      },
+      {
+        "teamName": "Cougars-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=366&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Cougars-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=423&clubId=1191",
+        "playerCount": "31"
+      },
+      {
+        "teamName": "Cougars-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=526&clubId=1191",
+        "playerCount": "41"
+      },
+      {
+        "teamName": "Cougars-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=596&clubId=1191",
+        "playerCount": "36"
+      },
+      {
+        "teamName": "Cougars-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=666&clubId=1191",
+        "playerCount": "43"
+      },
+      {
+        "teamName": "Cougars-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=903&clubId=1191",
+        "playerCount": "47"
+      },
+      {
+        "teamName": "Cougars-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=377&clubId=1191",
+        "playerCount": "40"
+      },
+      {
+        "teamName": "Cougars-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=409&clubId=1191",
+        "playerCount": "36"
+      },
+      {
+        "teamName": "Cougars-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=528&clubId=1191",
+        "playerCount": "43"
+      },
+      {
+        "teamName": "Cougars-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=597&clubId=1191",
+        "playerCount": "39"
+      },
+      {
+        "teamName": "Cougars-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=669&clubId=1191",
+        "playerCount": "46"
+      },
+      {
+        "teamName": "Cougars-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=898&clubId=1191",
+        "playerCount": "45"
+      }
+    ]
+  },
+  {
+    "clubName": "Cricket Zeal Academy (CZA)",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=41&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Cza U11",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=510&clubId=1191",
+        "playerCount": "17"
+      },
+      {
+        "teamName": "Cza U11",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=650&clubId=1191",
+        "playerCount": "17"
+      },
+      {
+        "teamName": "Cza U13",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=503&clubId=1191",
+        "playerCount": "17"
+      },
+      {
+        "teamName": "Cza U13",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=644&clubId=1191",
+        "playerCount": "20"
+      },
+      {
+        "teamName": "Cza U15",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=496&clubId=1191",
+        "playerCount": "20"
+      },
+      {
+        "teamName": "Cza U15",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=640&clubId=1191",
+        "playerCount": "18"
+      }
+    ]
+  },
+  {
+    "clubName": "Cruisers Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=52&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Cruisers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=635&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Cruisers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=693&clubId=1191",
+        "playerCount": "56"
+      }
+    ]
+  },
+  {
+    "clubName": "Dashrath Sankhe Cricket Academy(DSCA)",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=55&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Dsca U13",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=655&clubId=1191",
+        "playerCount": "16"
+      }
+    ]
+  },
+  {
+    "clubName": "Davis Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=3&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Davis",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=435&clubId=1191",
+        "playerCount": "13"
+      },
+      {
+        "teamName": "Davis",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=659&clubId=1191",
+        "playerCount": "33"
+      },
+      {
+        "teamName": "Davis",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=889&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Davis CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=367&clubId=1191",
+        "playerCount": "30"
+      },
+      {
+        "teamName": "Davis CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=515&clubId=1191",
+        "playerCount": "31"
+      },
+      {
+        "teamName": "Davis CC 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=124&clubId=1191",
+        "playerCount": "18"
+      }
+    ]
+  },
+  {
+    "clubName": "Dublin Cricket League (DCL)",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=42&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Dcl U11",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=657&clubId=1191",
+        "playerCount": "24"
+      },
+      {
+        "teamName": "Dcl U13",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=504&clubId=1191",
+        "playerCount": "18"
+      },
+      {
+        "teamName": "Dcl U13",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=645&clubId=1191",
+        "playerCount": "16"
+      },
+      {
+        "teamName": "Dcl U15",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=497&clubId=1191",
+        "playerCount": "21"
+      },
+      {
+        "teamName": "Dcl U15",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=641&clubId=1191",
+        "playerCount": "18"
+      },
+      {
+        "teamName": "Dcl-mcca",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=654&clubId=1191",
+        "playerCount": "17"
+      }
+    ]
+  },
+  {
+    "clubName": "East Bay Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=29&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Eb Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=378&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Eb Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=414&clubId=1191",
+        "playerCount": "21"
+      },
+      {
+        "teamName": "Eb Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=451&clubId=1191",
+        "playerCount": "47"
+      },
+      {
+        "teamName": "Eb Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=492&clubId=1191",
+        "playerCount": "31"
+      },
+      {
+        "teamName": "Eb Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=542&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "EB Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=687&clubId=1191",
+        "playerCount": "25"
+      },
+      {
+        "teamName": "EB Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=915&clubId=1191",
+        "playerCount": "27"
+      },
+      {
+        "teamName": "Eb Jaguars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=379&clubId=1191",
+        "playerCount": "35"
+      },
+      {
+        "teamName": "Eb Jaguars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=415&clubId=1191",
+        "playerCount": "27"
+      },
+      {
+        "teamName": "Eb Jaguars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=436&clubId=1191",
+        "playerCount": "2"
+      },
+      {
+        "teamName": "Eb Jaguars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=530&clubId=1191",
+        "playerCount": "77"
+      },
+      {
+        "teamName": "EB Jaguars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=676&clubId=1191",
+        "playerCount": "69"
+      }
+    ]
+  },
+  {
+    "clubName": "East Bay Youth Cricket Association (EYCA)",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=43&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Eyca Dukes",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=651&clubId=1191",
+        "playerCount": "14"
+      },
+      {
+        "teamName": "Eyca Scorchers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=656&clubId=1191",
+        "playerCount": "17"
+      },
+      {
+        "teamName": "Eyca Titans",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=646&clubId=1191",
+        "playerCount": "19"
+      },
+      {
+        "teamName": "Eyca U11",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=511&clubId=1191",
+        "playerCount": "19"
+      },
+      {
+        "teamName": "Eyca U13",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=505&clubId=1191",
+        "playerCount": "15"
+      },
+      {
+        "teamName": "Eyca U15",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=498&clubId=1191",
+        "playerCount": "18"
+      },
+      {
+        "teamName": "Eyca Wildfires",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=642&clubId=1191",
+        "playerCount": "19"
+      },
+      {
+        "teamName": "Eyca Yuva",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=634&clubId=1191",
+        "playerCount": "28"
+      }
+    ]
+  },
+  {
+    "clubName": "Fremont Warriors Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=24&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Fremont Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=317&clubId=1191",
+        "playerCount": "26"
+      }
+    ]
+  },
+  {
+    "clubName": "Fresno Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=6&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Fresno",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=672&clubId=1191",
+        "playerCount": "49"
+      },
+      {
+        "teamName": "Fresno",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=899&clubId=1191",
+        "playerCount": "52"
+      },
+      {
+        "teamName": "Fresno CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=368&clubId=1191",
+        "playerCount": "24"
+      },
+      {
+        "teamName": "Fresno CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=424&clubId=1191",
+        "playerCount": "21"
+      },
+      {
+        "teamName": "Fresno CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=516&clubId=1191",
+        "playerCount": "34"
+      },
+      {
+        "teamName": "Fresno CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=590&clubId=1191",
+        "playerCount": "21"
+      },
+      {
+        "teamName": "Fresno CC 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=125&clubId=1191",
+        "playerCount": "21"
+      }
+    ]
+  },
+  {
+    "clubName": "Guardians Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=38&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Guardians",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=461&clubId=1191",
+        "playerCount": "34"
+      }
+    ]
+  },
+  {
+    "clubName": "Hansot Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=48&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Hansot CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=579&clubId=1191",
+        "playerCount": "28"
+      }
+    ]
+  },
+  {
+    "clubName": "Indus Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=11&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Indus Avengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=111&clubId=1191",
+        "playerCount": "21"
+      },
+      {
+        "teamName": "Indus Avengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=126&clubId=1191",
+        "playerCount": "23"
+      },
+      {
+        "teamName": "Indus Avengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=380&clubId=1191",
+        "playerCount": "30"
+      },
+      {
+        "teamName": "Indus Avengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=432&clubId=1191",
+        "playerCount": "19"
+      },
+      {
+        "teamName": "Indus Avengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=529&clubId=1191",
+        "playerCount": "46"
+      },
+      {
+        "teamName": "Indus Avengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=552&clubId=1191",
+        "playerCount": "15"
+      },
+      {
+        "teamName": "Indus Avengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=670&clubId=1191",
+        "playerCount": "22"
+      },
+      {
+        "teamName": "Indus Avengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=801&clubId=1191",
+        "playerCount": "49"
+      },
+      {
+        "teamName": "Indus Avengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=895&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Indus Battlers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=226&clubId=1191",
+        "playerCount": "36"
+      },
+      {
+        "teamName": "Indus Battlers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=318&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Indus Battlers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=443&clubId=1191",
+        "playerCount": "47"
+      },
+      {
+        "teamName": "Indus Battlers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=610&clubId=1191",
+        "playerCount": "11"
+      },
+      {
+        "teamName": "Indus Battlers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=616&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Indus Battlers T20",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=402&clubId=1191",
+        "playerCount": "43"
+      },
+      {
+        "teamName": "Indus Battlers T20",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=567&clubId=1191",
+        "playerCount": "50"
+      },
+      {
+        "teamName": "Indus Conquest",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=151&clubId=1191",
+        "playerCount": "33"
+      },
+      {
+        "teamName": "Indus Conquest",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=381&clubId=1191",
+        "playerCount": "29"
+      },
+      {
+        "teamName": "Indus Conquest",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=437&clubId=1191",
+        "playerCount": "13"
+      },
+      {
+        "teamName": "Indus Conquest",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=531&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "Indus Conquest",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=556&clubId=1191",
+        "playerCount": "13"
+      },
+      {
+        "teamName": "Indus Conquest",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=677&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Indus Conquest",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=904&clubId=1191",
+        "playerCount": "33"
+      },
+      {
+        "teamName": "Indus Dukes",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=319&clubId=1191",
+        "playerCount": "40"
+      },
+      {
+        "teamName": "Indus Dukes",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=444&clubId=1191",
+        "playerCount": "44"
+      },
+      {
+        "teamName": "Indus Dukes",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=617&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "Indus Dukes",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=695&clubId=1191",
+        "playerCount": "49"
+      },
+      {
+        "teamName": "Indus Dukes",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=781&clubId=1191",
+        "playerCount": "54"
+      },
+      {
+        "teamName": "Indus Dukes",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=865&clubId=1191",
+        "playerCount": "11"
+      },
+      {
+        "teamName": "Indus Dukes",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=916&clubId=1191",
+        "playerCount": "51"
+      },
+      {
+        "teamName": "Indus Emperors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=313&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Indus Prince",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=382&clubId=1191",
+        "playerCount": "50"
+      },
+      {
+        "teamName": "Indus Prince",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=455&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Indus Prince",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=541&clubId=1191",
+        "playerCount": "44"
+      },
+      {
+        "teamName": "Indus Prince",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=688&clubId=1191",
+        "playerCount": "54"
+      },
+      {
+        "teamName": "Indus Prince",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=792&clubId=1191",
+        "playerCount": "62"
+      },
+      {
+        "teamName": "Indus Prince",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=917&clubId=1191",
+        "playerCount": "57"
+      },
+      {
+        "teamName": "Silicon Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=883&clubId=1191",
+        "playerCount": "23"
+      }
+    ]
+  },
+  {
+    "clubName": "Legacy Silver Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=32&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Legacy Silver",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=406&clubId=1191",
+        "playerCount": "23"
+      }
+    ]
+  },
+  {
+    "clubName": "Marin Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=2&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Marin CC I",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=112&clubId=1191",
+        "playerCount": "26"
+      },
+      {
+        "teamName": "Marin CC I",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=127&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Marin-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=369&clubId=1191",
+        "playerCount": "42"
+      },
+      {
+        "teamName": "Marin-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=425&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Marin-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=517&clubId=1191",
+        "playerCount": "64"
+      },
+      {
+        "teamName": "Marin-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=591&clubId=1191",
+        "playerCount": "46"
+      },
+      {
+        "teamName": "Marin-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=673&clubId=1191",
+        "playerCount": "62"
+      },
+      {
+        "teamName": "Marin-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=896&clubId=1191",
+        "playerCount": "74"
+      },
+      {
+        "teamName": "Marin-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=679&clubId=1191",
+        "playerCount": "69"
+      },
+      {
+        "teamName": "Marin-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=911&clubId=1191",
+        "playerCount": "71"
+      },
+      {
+        "teamName": "Marin-ii",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=383&clubId=1191",
+        "playerCount": "48"
+      },
+      {
+        "teamName": "Marin-ii",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=416&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Marin-ii",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=538&clubId=1191",
+        "playerCount": "56"
+      },
+      {
+        "teamName": "Marin-ii",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=599&clubId=1191",
+        "playerCount": "54"
+      }
+    ]
+  },
+  {
+    "clubName": "NCCA Teams",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=18&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Dadas XI",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=867&clubId=1191",
+        "playerCount": "11"
+      },
+      {
+        "teamName": "Dravidians XI",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=866&clubId=1191",
+        "playerCount": "12"
+      },
+      {
+        "teamName": "Indians",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=851&clubId=1191",
+        "playerCount": "0"
+      },
+      {
+        "teamName": "Indians",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=855&clubId=1191",
+        "playerCount": "0"
+      },
+      {
+        "teamName": "Ncca Youth",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=384&clubId=1191",
+        "playerCount": "54"
+      },
+      {
+        "teamName": "Ncca Youth",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=452&clubId=1191",
+        "playerCount": "35"
+      },
+      {
+        "teamName": "Ncca Youth",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=543&clubId=1191",
+        "playerCount": "66"
+      },
+      {
+        "teamName": "NCCA Youth",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=796&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Royal Challengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=852&clubId=1191",
+        "playerCount": "0"
+      },
+      {
+        "teamName": "Royal Challengers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=856&clubId=1191",
+        "playerCount": "0"
+      },
+      {
+        "teamName": "Sunrisers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=853&clubId=1191",
+        "playerCount": "0"
+      },
+      {
+        "teamName": "Sunrisers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=857&clubId=1191",
+        "playerCount": "0"
+      },
+      {
+        "teamName": "Super Kings",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=854&clubId=1191",
+        "playerCount": "0"
+      },
+      {
+        "teamName": "Super Kings",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=858&clubId=1191",
+        "playerCount": "0"
+      }
+    ]
+  },
+  {
+    "clubName": "Owen Graham Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=37&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Og Masters",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=450&clubId=1191",
+        "playerCount": "42"
+      }
+    ]
+  },
+  {
+    "clubName": "Panthers Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=13&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Panthers-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=871&clubId=1191",
+        "playerCount": "50"
+      },
+      {
+        "teamName": "Panthers-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=907&clubId=1191",
+        "playerCount": "27"
+      },
+      {
+        "teamName": "Panthers-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=923&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "Panthers-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=929&clubId=1191",
+        "playerCount": "41"
+      },
+      {
+        "teamName": "Sj Panthers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=532&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Sj Panthers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=601&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "SJ Panthers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=674&clubId=1191",
+        "playerCount": "40"
+      },
+      {
+        "teamName": "Sj Panthers 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=130&clubId=1191",
+        "playerCount": "39"
+      },
+      {
+        "teamName": "Sj Panthers Blues",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=386&clubId=1191",
+        "playerCount": "46"
+      },
+      {
+        "teamName": "Sj Panthers Reds",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=387&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Sj Panthers Reds",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=417&clubId=1191",
+        "playerCount": "26"
+      }
+    ]
+  },
+  {
+    "clubName": "Richmond Lions",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=35&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Richmond Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=459&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Richmond Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=547&clubId=1191",
+        "playerCount": "29"
+      },
+      {
+        "teamName": "Richmond Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=576&clubId=1191",
+        "playerCount": "39"
+      },
+      {
+        "teamName": "Richmond Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=585&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Richmond Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=608&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Richmond Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=618&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Richmond Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=689&clubId=1191",
+        "playerCount": "44"
+      },
+      {
+        "teamName": "Richmond Lions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=782&clubId=1191",
+        "playerCount": "59"
+      }
+    ]
+  },
+  {
+    "clubName": "Sacramento Valley Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=60&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "American XI",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=925&clubId=1191",
+        "playerCount": "21"
+      }
+    ]
+  },
+  {
+    "clubName": "Sacramento Youth Cricket Association (SYCA)",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=45&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Syca Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=507&clubId=1191",
+        "playerCount": "25"
+      },
+      {
+        "teamName": "Syca Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=648&clubId=1191",
+        "playerCount": "27"
+      }
+    ]
+  },
+  {
+    "clubName": "Sahara Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=33&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Sahara",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=454&clubId=1191",
+        "playerCount": "16"
+      },
+      {
+        "teamName": "Sahara Zalmi",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=407&clubId=1191",
+        "playerCount": "16"
+      }
+    ]
+  },
+  {
+    "clubName": "San Francisco Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=30&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "San Francisco CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=405&clubId=1191",
+        "playerCount": "16"
+      },
+      {
+        "teamName": "San Francisco CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=457&clubId=1191",
+        "playerCount": "30"
+      },
+      {
+        "teamName": "San Francisco CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=619&clubId=1191",
+        "playerCount": "24"
+      },
+      {
+        "teamName": "Spartan SF",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=783&clubId=1191",
+        "playerCount": "33"
+      }
+    ]
+  },
+  {
+    "clubName": "San Ramon Cricket Association (SRCA)",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=44&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Srca",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=549&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Srca U11",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=512&clubId=1191",
+        "playerCount": "19"
+      },
+      {
+        "teamName": "Srca U11",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=652&clubId=1191",
+        "playerCount": "21"
+      },
+      {
+        "teamName": "Srca U13",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=506&clubId=1191",
+        "playerCount": "17"
+      },
+      {
+        "teamName": "Srca U15",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=500&clubId=1191",
+        "playerCount": "17"
+      }
+    ]
+  },
+  {
+    "clubName": "Santa Clara Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=7&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Santa Clara Aces",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=370&clubId=1191",
+        "playerCount": "43"
+      },
+      {
+        "teamName": "Santa Clara Aces",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=426&clubId=1191",
+        "playerCount": "31"
+      },
+      {
+        "teamName": "Santa Clara Aces",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=518&clubId=1191",
+        "playerCount": "47"
+      },
+      {
+        "teamName": "Santa Clara Aces",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=660&clubId=1191",
+        "playerCount": "49"
+      },
+      {
+        "teamName": "Santa Clara Aces",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=890&clubId=1191",
+        "playerCount": "58"
+      },
+      {
+        "teamName": "Santa Clara Bees",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=371&clubId=1191",
+        "playerCount": "46"
+      },
+      {
+        "teamName": "Santa Clara Bees",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=427&clubId=1191",
+        "playerCount": "30"
+      },
+      {
+        "teamName": "Santa Clara Bees",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=527&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "Santa Clara Bees",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=671&clubId=1191",
+        "playerCount": "27"
+      },
+      {
+        "teamName": "Santa Clara Bees",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=900&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Santa Clara CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=553&clubId=1191",
+        "playerCount": "27"
+      },
+      {
+        "teamName": "Santa Clara Mavericks",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=320&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Santa Clara Mavericks",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=445&clubId=1191",
+        "playerCount": "55"
+      },
+      {
+        "teamName": "Santa Clara Seas",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=685&clubId=1191",
+        "playerCount": "87"
+      },
+      {
+        "teamName": "Santa Clara Seas",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=872&clubId=1191",
+        "playerCount": "95"
+      },
+      {
+        "teamName": "Santa Clara Seas",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=918&clubId=1191",
+        "playerCount": "10"
+      },
+      {
+        "teamName": "Santa Clara Sox",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=327&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "Santa Clara Sox",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=446&clubId=1191",
+        "playerCount": "67"
+      },
+      {
+        "teamName": "Santa Clara Sox",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=620&clubId=1191",
+        "playerCount": "71"
+      },
+      {
+        "teamName": "Santa Clara SOX",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=784&clubId=1191",
+        "playerCount": "96"
+      },
+      {
+        "teamName": "Santa Clara Sox",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=873&clubId=1191",
+        "playerCount": "85"
+      },
+      {
+        "teamName": "Santa Clara SOX",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=878&clubId=1191",
+        "playerCount": "106"
+      },
+      {
+        "teamName": "Sccc Bees 2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=128&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Sccc Aces 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=129&clubId=1191",
+        "playerCount": "30"
+      },
+      {
+        "teamName": "Sccc Seas",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=385&clubId=1191",
+        "playerCount": "64"
+      },
+      {
+        "teamName": "Sccc Seas",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=418&clubId=1191",
+        "playerCount": "58"
+      },
+      {
+        "teamName": "Sccc Seas",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=539&clubId=1191",
+        "playerCount": "75"
+      },
+      {
+        "teamName": "Sccc Seas",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=600&clubId=1191",
+        "playerCount": "65"
+      }
+    ]
+  },
+  {
+    "clubName": "Silicon Stars Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=53&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Silicon Stars",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=636&clubId=1191",
+        "playerCount": "40"
+      }
+    ]
+  },
+  {
+    "clubName": "Silicon Valley Tigers",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=23&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Silicon Valley Tigers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=321&clubId=1191",
+        "playerCount": "26"
+      },
+      {
+        "teamName": "Silicon Valley Tigers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=447&clubId=1191",
+        "playerCount": "23"
+      },
+      {
+        "teamName": "Silicon Valley Tigers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=577&clubId=1191",
+        "playerCount": "35"
+      },
+      {
+        "teamName": "Silicon Valley Tigers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=638&clubId=1191",
+        "playerCount": "46"
+      },
+      {
+        "teamName": "Silicon Valley Tigers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=701&clubId=1191",
+        "playerCount": "55"
+      },
+      {
+        "teamName": "Silicon Valley Tigers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=785&clubId=1191",
+        "playerCount": "69"
+      },
+      {
+        "teamName": "Silicon Valley Tigers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=879&clubId=1191",
+        "playerCount": "69"
+      },
+      {
+        "teamName": "Valley Champions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=797&clubId=1191",
+        "playerCount": "46"
+      },
+      {
+        "teamName": "Valley Champions",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=880&clubId=1191",
+        "playerCount": "54"
+      }
+    ]
+  },
+  {
+    "clubName": "Sixers Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=46&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Sixers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=690&clubId=1191",
+        "playerCount": "18"
+      },
+      {
+        "teamName": "Sixers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=795&clubId=1191",
+        "playerCount": "33"
+      },
+      {
+        "teamName": "Sixers CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=491&clubId=1191",
+        "playerCount": "2"
+      },
+      {
+        "teamName": "Sixers CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=548&clubId=1191",
+        "playerCount": "24"
+      },
+      {
+        "teamName": "Sixers CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=609&clubId=1191",
+        "playerCount": "24"
+      },
+      {
+        "teamName": "Sixers-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=914&clubId=1191",
+        "playerCount": "22"
+      },
+      {
+        "teamName": "Sixers-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=926&clubId=1191",
+        "playerCount": "27"
+      }
+    ]
+  },
+  {
+    "clubName": "Spartan Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=21&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Spartan",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=462&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Spartan",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=621&clubId=1191",
+        "playerCount": "36"
+      },
+      {
+        "teamName": "Spartan",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=692&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Spartan",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=786&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "Spartan CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=314&clubId=1191",
+        "playerCount": "31"
+      },
+      {
+        "teamName": "Spartan CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=388&clubId=1191",
+        "playerCount": "48"
+      },
+      {
+        "teamName": "Spartan CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=410&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Spartan CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=533&clubId=1191",
+        "playerCount": "47"
+      },
+      {
+        "teamName": "Spartan CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=602&clubId=1191",
+        "playerCount": "42"
+      },
+      {
+        "teamName": "Spartan Sf",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=578&clubId=1191",
+        "playerCount": "58"
+      },
+      {
+        "teamName": "Spartan Sf",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=586&clubId=1191",
+        "playerCount": "54"
+      },
+      {
+        "teamName": "Spartan SF",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=877&clubId=1191",
+        "playerCount": "50"
+      },
+      {
+        "teamName": "Spartans",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=922&clubId=1191",
+        "playerCount": "22"
+      }
+    ]
+  },
+  {
+    "clubName": "Stanford Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=10&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "EYCA Yuva",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=694&clubId=1191",
+        "playerCount": "27"
+      },
+      {
+        "teamName": "Stanford",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=625&clubId=1191",
+        "playerCount": "23"
+      },
+      {
+        "teamName": "Stanford",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=702&clubId=1191",
+        "playerCount": "46"
+      },
+      {
+        "teamName": "Stanford",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=787&clubId=1191",
+        "playerCount": "29"
+      },
+      {
+        "teamName": "Stanford 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=131&clubId=1191",
+        "playerCount": "26"
+      },
+      {
+        "teamName": "Stanford A 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=116&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Stanford CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=870&clubId=1191",
+        "playerCount": "8"
+      },
+      {
+        "teamName": "Stanford Supernovas",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=399&clubId=1191",
+        "playerCount": "35"
+      },
+      {
+        "teamName": "Stanford Supernovas",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=569&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Stanford-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=372&clubId=1191",
+        "playerCount": "34"
+      },
+      {
+        "teamName": "Stanford-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=519&clubId=1191",
+        "playerCount": "33"
+      },
+      {
+        "teamName": "Stanford-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=594&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Stanford-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=661&clubId=1191",
+        "playerCount": "39"
+      },
+      {
+        "teamName": "Stanford-1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=891&clubId=1191",
+        "playerCount": "27"
+      },
+      {
+        "teamName": "Stanford-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=389&clubId=1191",
+        "playerCount": "44"
+      },
+      {
+        "teamName": "Stanford-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=540&clubId=1191",
+        "playerCount": "40"
+      },
+      {
+        "teamName": "Stanford-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=555&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Stanford-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=681&clubId=1191",
+        "playerCount": "57"
+      },
+      {
+        "teamName": "Stanford-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=905&clubId=1191",
+        "playerCount": "69"
+      },
+      {
+        "teamName": "Supernovas",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=887&clubId=1191",
+        "playerCount": "39"
+      }
+    ]
+  },
+  {
+    "clubName": "Sunnyvale Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=12&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Sunnyvale",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=630&clubId=1191",
+        "playerCount": "69"
+      },
+      {
+        "teamName": "Sunnyvale",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=709&clubId=1191",
+        "playerCount": "80"
+      },
+      {
+        "teamName": "Sunnyvale",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=788&clubId=1191",
+        "playerCount": "73"
+      },
+      {
+        "teamName": "Sunnyvale Blazers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=132&clubId=1191",
+        "playerCount": "32"
+      },
+      {
+        "teamName": "Sunnyvale Blues",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=869&clubId=1191",
+        "playerCount": "20"
+      },
+      {
+        "teamName": "Sunnyvale C",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=863&clubId=1191",
+        "playerCount": "11"
+      },
+      {
+        "teamName": "Sunnyvale Reds",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=868&clubId=1191",
+        "playerCount": "19"
+      },
+      {
+        "teamName": "Sunnyvale-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=390&clubId=1191",
+        "playerCount": "39"
+      },
+      {
+        "teamName": "Sunnyvale-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=534&clubId=1191",
+        "playerCount": "54"
+      },
+      {
+        "teamName": "Sunnyvale-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=603&clubId=1191",
+        "playerCount": "53"
+      },
+      {
+        "teamName": "Sunnyvale-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=675&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Sunnyvale-2",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=901&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Sunnyvale-3",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=696&clubId=1191",
+        "playerCount": "45"
+      },
+      {
+        "teamName": "Sunnyvale-3",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=919&clubId=1191",
+        "playerCount": "50"
+      },
+      {
+        "teamName": "Sunnyvale-cardinals",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=373&clubId=1191",
+        "playerCount": "44"
+      },
+      {
+        "teamName": "Sunnyvale-cardinals",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=520&clubId=1191",
+        "playerCount": "58"
+      },
+      {
+        "teamName": "Sunnyvale-cardinals",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=595&clubId=1191",
+        "playerCount": "55"
+      },
+      {
+        "teamName": "Sunnyvale-Cardinals",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=662&clubId=1191",
+        "playerCount": "46"
+      },
+      {
+        "teamName": "Sunnyvale-Cardinals",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=892&clubId=1191",
+        "playerCount": "46"
+      }
+    ]
+  },
+  {
+    "clubName": "Thunderbolts",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=56&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Thunderbolts",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=798&clubId=1191",
+        "playerCount": "32"
+      }
+    ]
+  },
+  {
+    "clubName": "Tigers Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=34&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Tigers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=408&clubId=1191",
+        "playerCount": "28"
+      }
+    ]
+  },
+  {
+    "clubName": "Titans Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=57&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Titans",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=800&clubId=1191",
+        "playerCount": "23"
+      }
+    ]
+  },
+  {
+    "clubName": "Tracy Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=20&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Tracy",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=691&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Tracy CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=391&clubId=1191",
+        "playerCount": "30"
+      },
+      {
+        "teamName": "Tracy CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=411&clubId=1191",
+        "playerCount": "26"
+      }
+    ]
+  },
+  {
+    "clubName": "Tracy United Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=8&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "California Zalmi",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=910&clubId=1191",
+        "playerCount": "71"
+      },
+      {
+        "teamName": "Tracy United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=663&clubId=1191",
+        "playerCount": "30"
+      },
+      {
+        "teamName": "Tracy United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=893&clubId=1191",
+        "playerCount": "35"
+      },
+      {
+        "teamName": "Tracy United CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=374&clubId=1191",
+        "playerCount": "26"
+      },
+      {
+        "teamName": "Tracy United CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=428&clubId=1191",
+        "playerCount": "25"
+      },
+      {
+        "teamName": "Tracy United CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=521&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Tracy United CC 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=133&clubId=1191",
+        "playerCount": "21"
+      }
+    ]
+  },
+  {
+    "clubName": "Union City Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=4&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Uc CAvaliers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=315&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Uc CAvaliers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=392&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "Uc CAvaliers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=412&clubId=1191",
+        "playerCount": "29"
+      },
+      {
+        "teamName": "Uc CAvaliers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=493&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "Uc CAvaliers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=535&clubId=1191",
+        "playerCount": "36"
+      },
+      {
+        "teamName": "Uc CAvaliers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=604&clubId=1191",
+        "playerCount": "34"
+      },
+      {
+        "teamName": "UC Cavaliers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=682&clubId=1191",
+        "playerCount": "41"
+      },
+      {
+        "teamName": "UC Cavaliers",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=912&clubId=1191",
+        "playerCount": "23"
+      },
+      {
+        "teamName": "Uc CAvaliers T20",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=403&clubId=1191",
+        "playerCount": "49"
+      },
+      {
+        "teamName": "Uc CAvaliers T20",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=571&clubId=1191",
+        "playerCount": "38"
+      },
+      {
+        "teamName": "UC Jawans",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=698&clubId=1191",
+        "playerCount": "46"
+      },
+      {
+        "teamName": "UC Jawans",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=793&clubId=1191",
+        "playerCount": "48"
+      },
+      {
+        "teamName": "UC Jawans",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=920&clubId=1191",
+        "playerCount": "43"
+      },
+      {
+        "teamName": "Uc Og Masters",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=316&clubId=1191",
+        "playerCount": "43"
+      },
+      {
+        "teamName": "UC Owen Graham",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=799&clubId=1191",
+        "playerCount": "34"
+      },
+      {
+        "teamName": "UC Owen Graham",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=881&clubId=1191",
+        "playerCount": "13"
+      },
+      {
+        "teamName": "Uc Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=322&clubId=1191",
+        "playerCount": "22"
+      },
+      {
+        "teamName": "Uc Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=375&clubId=1191",
+        "playerCount": "21"
+      },
+      {
+        "teamName": "Uc Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=429&clubId=1191",
+        "playerCount": "23"
+      },
+      {
+        "teamName": "Uc Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=449&clubId=1191",
+        "playerCount": "29"
+      },
+      {
+        "teamName": "Uc Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=522&clubId=1191",
+        "playerCount": "25"
+      },
+      {
+        "teamName": "Uc Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=550&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "Uc Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=622&clubId=1191",
+        "playerCount": "26"
+      },
+      {
+        "teamName": "UC Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=664&clubId=1191",
+        "playerCount": "25"
+      },
+      {
+        "teamName": "UC Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=789&clubId=1191",
+        "playerCount": "26"
+      },
+      {
+        "teamName": "UC Warriors",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=894&clubId=1191",
+        "playerCount": "34"
+      },
+      {
+        "teamName": "Uc Warriors 1",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=134&clubId=1191",
+        "playerCount": "20"
+      }
+    ]
+  },
+  {
+    "clubName": "United Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=16&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "FairField United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=802&clubId=1191",
+        "playerCount": "30"
+      },
+      {
+        "teamName": "United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=458&clubId=1191",
+        "playerCount": "37"
+      },
+      {
+        "teamName": "United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=623&clubId=1191",
+        "playerCount": "42"
+      },
+      {
+        "teamName": "United CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=393&clubId=1191",
+        "playerCount": "28"
+      },
+      {
+        "teamName": "United CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=413&clubId=1191",
+        "playerCount": "27"
+      },
+      {
+        "teamName": "United CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=536&clubId=1191",
+        "playerCount": "41"
+      },
+      {
+        "teamName": "United CC",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=605&clubId=1191",
+        "playerCount": "39"
+      }
+    ]
+  },
+  {
+    "clubName": "West Coast Eagles Cricket Club",
+    "clubURL": "https://cricclubs.com/NCCA/viewInternalClub.do?internalClubId=39&clubId=1191",
+    "allTeams": [
+      {
+        "teamName": "Bay Area Pirates",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=460&clubId=1191",
+        "playerCount": "25"
+      },
+      {
+        "teamName": "Bay Area Pirates",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=573&clubId=1191",
+        "playerCount": "19"
+      },
+      {
+        "teamName": "West Coast Eagles",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=631&clubId=1191",
+        "playerCount": "20"
+      },
+      {
+        "teamName": "WestCoast United",
+        "teamURL": "https://cricclubs.com/NCCA/viewTeam.do?teamId=790&clubId=1191",
+        "playerCount": "34"
+      }
+    ]
+  }
+]
