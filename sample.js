@@ -67,7 +67,7 @@ const fs = require("fs");
       })
     );
 
-    fs.writeFile("./sample7.json", JSON.stringify(clubResult), (err) => {
+    fs.writeFile("./BACA2.json", JSON.stringify(clubResult), (err) => {
       if (err) {
         console.log("write error: " + err);
       }
