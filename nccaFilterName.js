@@ -16,7 +16,7 @@ var newData = playerData.map((record) => {
 });
 console.log(newArr);
 
-fs.writeFile("./nccaFilteredName.json", JSON.stringify(newArr), (err) => {
+fs.writeFile("./nccaFilteredName1.json", JSON.stringify(newArr), (err) => {
   if (err) {
     console.log("write error: " + err);
   }

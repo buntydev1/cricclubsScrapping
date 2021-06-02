@@ -1,22 +1,45 @@
-const playerData = require("./BACA2.json");
+const playerData = require("./sample7.json");
 const fs = require("fs");
 
-var newArr = [];
-var newData = playerData.map((record) => {
-  record.allTeams.map((teams) => {
-    if (teams.listOfPlayer.length !== 0) {
-      const newRecord = teams.listOfPlayer.filter(
-        (x) =>
-          !x.playerRole.includes("Bowler") && !x.playerRole.includes("Bowler")
-      );
-      newArr.push(newRecord);
+// var newArr = [];
+// playerData.map((record) => {
+// return   record.allTeams.map((teams) => {
+//     if (teams.listOfPlayer.length !== 0) {
+//       let newRecord = teams.listOfPlayer.filter(
+//         (x) =>
+//           !x.playerRole.includes("Bowler") && !x.playerRole.includes("Bowler")
+//       );
+//       var allData = { ...record };
+//       console.log(allData);
+//       newArr.push(allData);
+//     }
+//   });
+// });
+// // console.log(newData);
+var newData = [];
+for (i = 0; i < playerData.length; i++) {
+  for (j = 0; j < playerData[i].allTeams.length; j++) {
+    for (k = 0; k < playerData[i].allTeams[j].listOfPlayer.length; k++) {
+      if (
+        playerData[i].allTeams[j].listOfPlayer[k].playerRole.includes(
+          "Batsman"
+        ) ||
+        playerData[i].allTeams[j].listOfPlayer[k].playerRole.includes(
+          "All Rounder"
+        ) ||
+        playerData[i].allTeams[j].listOfPlayer[k].playerRole.includes(
+          "Wicket Keeper"
+        )
+      ) {
+        newData.push(playerData[i].allTeams[j].listOfPlayer[k]);
+      }
     }
-  });
-  return newData;
-});
-console.log(newArr);
+  }
+  // console.log(playerData[i]);
+}
+console.log("newData", newData);
 
-fs.writeFile("./BACAName.json", JSON.stringify(newArr), (err) => {
+fs.writeFile("./sample18.json", JSON.stringify(newData), (err) => {
   if (err) {
     console.log("write error: " + err);
   }
