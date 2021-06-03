@@ -31,22 +31,23 @@ const fs = require("fs");
 
     //   return playerListNumber;
     // }
+
     async function fetchPlayerName(url) {
       const page = await browser.newPage();
       await page.goto(url, { waitUntil: "load", timeout: 0 });
       await page.waitForSelector("div.panel-body");
-
-      var allPlayerName = await page.$$eval(
-        "div.tab-content > div.tab-pane.fade.in.active > div.row > #playersearchdiv > div.col-sm-3 > div.team-player-all > div.team-player-text.text-center > h4 ",
-        (allPlayers) => {
-          return allPlayers.map((player) => {
-            return player.innerText;
+      const roles = await page.$$eval(
+        "div.tab-content > div.tab-pane.fade.in.active > div.row > #playersearchdiv > div.col-sm-3 > div.team-player-all > div.team-player-text ",
+        (allRoles) => {
+          return allRoles.map((roleStat) => {
+            return (obj = {
+              name: roleStat.querySelector("h4").innerText,
+              playerRole: roleStat.querySelector("h5").innerText,
+            });
           });
         }
       );
-
-      // console.log("this is allPlayerName", allPlayerName);
-      return allPlayerName;
+      return roles;
     }
     const clubResult = await Promise.all(
       clubs.map(async (club) => {
