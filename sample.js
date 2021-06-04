@@ -1,4 +1,4 @@
-const clubs = require("./BACA.json");
+const clubs = require("./sample7.json");
 
 const puppeteer = require("puppeteer");
 const fs = require("fs");
@@ -42,6 +42,7 @@ const fs = require("fs");
             return (obj = {
               name: roleStat.querySelector("h4").innerText,
               playerRole: roleStat.querySelector("h5").innerText,
+              playerURL: roleStat.querySelector("a").href,
             });
           });
         }
@@ -67,7 +68,7 @@ const fs = require("fs");
       })
     );
 
-    fs.writeFile("./BACA2.json", JSON.stringify(clubResult), (err) => {
+    fs.writeFile("./sample8.json", JSON.stringify(clubResult), (err) => {
       if (err) {
         console.log("write error: " + err);
       }
