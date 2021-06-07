@@ -1,0 +1,59 @@
+[
+  {
+    "clubName": "ADSK Cricket Club",
+    "clubUrl": "https://cricclubs.com/baca/viewInternalClub.do?internalClubId=32&clubId=1755",
+    "allTeams": [
+      {
+        "teamName": "Afgan Zalmi",
+        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=393&clubId=1755",
+        "listOfPlayer": []
+      },
+      {
+        "teamName": "Autodesk CC",
+        "teamURL": "https://cricclubs.com/baca/viewTeam.do?teamId=376&clubId=1755",
+        "listOfPlayer": [
+          {
+            "name": "AMARNATH AMARNATH",
+            "playerRole": " All Rounder ",
+            "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=893120&clubId=1755"
+          },
+          {
+            "name": "AMITH RAUL",
+            "playerRole": " All Rounder ",
+            "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=885821&clubId=1755"
+          },
+          {
+            "name": "ASHISH ASHISH",
+            "playerRole": " All Rounder ",
+            "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=893119&clubId=1755"
+          },
+          {
+            "name": "HARPREET KHAIRA",
+            "playerRole": " All Rounder ",
+            "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=885820&clubId=1755"
+          },
+          {
+            "name": "HEMANT MURARKA",
+            "playerRole": " All Rounder ",
+            "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=885822&clubId=1755"
+          },
+          {
+            "name": "HERSHAL K",
+            "playerRole": " All Rounder ",
+            "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=943445&clubId=1755"
+          },
+          {
+            "name": "IMRAN SYED",
+            "playerRole": " All Rounder ",
+            "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=839822&clubId=1755"
+          },
+          {
+            "name": "VISHAL PHIRANI",
+            "playerRole": " All Rounder ",
+            "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=885851&clubId=1755"
+          }
+        ]
+      }
+    ]
+  }
+]
