@@ -1,5 +1,5 @@
 const puppeteer = require("puppeteer");
-const clubs = require("./baca5.json");
+const clubs = require("./sample9.json");
 const fs = require("fs");
 
 (async (clubs) => {
@@ -7,13 +7,13 @@ const fs = require("fs");
   try {
     console.log("opening the browser.....");
     browser = await puppeteer.launch({
-      headless: true,
+      headless: false,
     });
 
     async function fetchPlayerStat(url) {
       const page = await browser.newPage();
       await page.goto(url, { waitUntil: "load", timeout: 0 });
-      await page.waitForSelector("div.match-summary  ");
+      await page.waitForSelector("div.score-all");
       const stat = await page.$eval(
         "div.score-top.sp.text-center > div.container > div.match-summary > div.row > div.col-sm-12 > div.match-in-summary > div.row > div.col-sm-5 > div.matches-runs-wickets > ul.list-inline ",
         (elements) => {
@@ -23,7 +23,6 @@ const fs = require("fs");
             runs: elements.querySelector("li:nth-Child(2) > span ").innerText,
             wickets: elements.querySelector("li:nth-Child(3) > span").innerText,
           };
-          console.log(allStat);
           return allStat;
         }
       );
@@ -34,12 +33,10 @@ const fs = require("fs");
     async function getPlayers(team) {
       return Promise.all(
         team.listOfPlayer.map(async (player) => {
-          var stat = await fetchPlayerStat(player.playerURL);
-          console.log("stat", stat);
-          player.matches = stat.matches;
-          player.runs = stat.runs;
-          player.wickets = stat.wickets;
-          return player;
+          return {
+            ...player,
+            ...(player = await fetchPlayerStat(player.playerURL)),
+          };
         })
       );
     }
@@ -65,7 +62,7 @@ const fs = require("fs");
       })
     );
 
-    fs.writeFile("./PlayerStat.json", JSON.stringify(clubResult), (err) => {
+    fs.writeFile("./PlayerStat2.json", JSON.stringify(clubResult), (err) => {
       if (err) {
         console.log("write error: " + err);
       }

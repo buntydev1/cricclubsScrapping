@@ -1,4 +1,4 @@
-const playerData = require("./BACA2.json");
+const playerData = require("./BACA4.json");
 const fs = require("fs");
 
 // var newArr = [];
@@ -55,7 +55,7 @@ for (i = 0; i < playerData.length; i++) {
 }
 console.log("newData", newData);
 
-fs.writeFile("./sample21.json", JSON.stringify(newData), (err) => {
+fs.writeFile("./BACA6.json", JSON.stringify(newData), (err) => {
   if (err) {
     console.log("write error: " + err);
   }
