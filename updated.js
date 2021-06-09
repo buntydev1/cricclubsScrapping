@@ -1,5 +1,5 @@
 const puppeteer = require("puppeteer");
-const clubs = require("./sample9.json");
+const clubs = require("./baca5.json");
 const fs = require("fs");
 
 (async (clubs) => {
@@ -21,6 +21,7 @@ const fs = require("fs");
             matches: elements.querySelector("li:nth-Child(1) > span ")
               .innerText,
             runs: elements.querySelector("li:nth-Child(2) > span ").innerText,
+            wickets: elements.querySelector("li:nth-Child(3) > span").innerText,
           };
           console.log(allStat);
           return allStat;
@@ -33,10 +34,12 @@ const fs = require("fs");
     async function getPlayers(team) {
       return Promise.all(
         team.listOfPlayer.map(async (player) => {
-          return {
-            ...player,
-            matches: await fetchPlayerStat(player.playerURL),
-          };
+          var stat = await fetchPlayerStat(player.playerURL);
+          console.log("stat", stat);
+          player.matches = stat.matches;
+          player.runs = stat.runs;
+          player.wickets = stat.wickets;
+          return player;
         })
       );
     }
@@ -62,7 +65,7 @@ const fs = require("fs");
       })
     );
 
-    fs.writeFile("./sample11.json", JSON.stringify(clubResult), (err) => {
+    fs.writeFile("./PlayerStat1.json", JSON.stringify(clubResult), (err) => {
       if (err) {
         console.log("write error: " + err);
       }

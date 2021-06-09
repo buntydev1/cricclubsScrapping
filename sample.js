@@ -8,7 +8,7 @@ const fs = require("fs");
   try {
     console.log("opening the browser.....");
     browser = await puppeteer.launch({
-      headless: false,
+      headless: true,
     });
     // async function fetchPlayerCount(url) {
     //   const page = await browser.newPage();
@@ -68,7 +68,7 @@ const fs = require("fs");
       })
     );
 
-    fs.writeFile("./BACA2Name.json", JSON.stringify(clubResult), (err) => {
+    fs.writeFile("./BACA4.json", JSON.stringify(clubResult), (err) => {
       if (err) {
         console.log("write error: " + err);
       }

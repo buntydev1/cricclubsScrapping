@@ -1,4 +1,4 @@
-const playerData = require("./sample8.json");
+const playerData = require("./BACA2.json");
 const fs = require("fs");
 
 // var newArr = [];

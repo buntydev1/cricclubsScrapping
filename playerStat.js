@@ -1,6 +1,5 @@
 const puppeteer = require("puppeteer");
-const clubs = require("./sample9.json");
-// const clubs = require("./sample7.json");
+const clubs = require("./baca5.json");
 const fs = require("fs");
 
 (async (clubs) => {
@@ -14,30 +13,33 @@ const fs = require("fs");
     async function fetchPlayerStat(url) {
       const page = await browser.newPage();
       await page.goto(url, { waitUntil: "load", timeout: 0 });
-      await page.waitForSelector("div.score-all");
-      const options = await page.$$eval(
+      await page.waitForSelector("div.match-summary  ");
+      const stat = await page.$eval(
         "div.score-top.sp.text-center > div.container > div.match-summary > div.row > div.col-sm-12 > div.match-in-summary > div.row > div.col-sm-5 > div.matches-runs-wickets > ul.list-inline ",
-        (options) => {
-          return options.map((option) => {
-            return (obj = {
-              matches: option.querySelector(" li:nth-Child(1) >span").innerText,
-              runs: option.querySelector("li:nth-Child(2) > span").innerText,
-              wickets: option.querySelector("li:nth-Child(3) > span").innerText,
-            });
-          });
+        (elements) => {
+          let allStat = {
+            matches: elements.querySelector("li:nth-Child(1) > span ")
+              .innerText,
+            runs: elements.querySelector("li:nth-Child(2) > span ").innerText,
+            wickets: elements.querySelector("li:nth-Child(3) > span").innerText,
+          };
+          console.log(allStat);
+          return allStat;
         }
       );
-      console.log("options", options);
-      return options;
+
+      return stat;
     }
 
     async function getPlayers(team) {
       return Promise.all(
         team.listOfPlayer.map(async (player) => {
-          return {
-            ...player,
-            playerStat: await fetchPlayerStat(player.playerURL),
-          };
+          var stat = await fetchPlayerStat(player.playerURL);
+          console.log("stat", stat);
+          player.matches = stat.matches;
+          player.runs = stat.runs;
+          player.wickets = stat.wickets;
+          return player;
         })
       );
     }
@@ -62,10 +64,8 @@ const fs = require("fs");
         };
       })
     );
-    console.log("clubResult", clubResult);
-    // return;
 
-    fs.writeFile("./sample10.json", JSON.stringify(clubResult), (err) => {
+    fs.writeFile("./PlayerStat.json", JSON.stringify(clubResult), (err) => {
       if (err) {
         console.log("write error: " + err);
       }

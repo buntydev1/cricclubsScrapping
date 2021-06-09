@@ -16,49 +16,65 @@
             "name": "AMARNATH AMARNATH",
             "playerRole": " All Rounder ",
             "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=893120&clubId=1755",
-            "matches": { "matches": "12", "runs": "102" }
+            "matches": "12",
+            "runs": "102",
+            "wickets": "0"
           },
           {
             "name": "AMITH RAUL",
             "playerRole": " All Rounder ",
             "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=885821&clubId=1755",
-            "matches": { "matches": "13", "runs": "75" }
+            "matches": "13",
+            "runs": "75",
+            "wickets": "15"
           },
           {
             "name": "ASHISH ASHISH",
             "playerRole": " All Rounder ",
             "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=893119&clubId=1755",
-            "matches": { "matches": "3", "runs": "15" }
+            "matches": "3",
+            "runs": "15",
+            "wickets": "1"
           },
           {
             "name": "HARPREET KHAIRA",
             "playerRole": " All Rounder ",
             "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=885820&clubId=1755",
-            "matches": { "matches": "16", "runs": "126" }
+            "matches": "16",
+            "runs": "126",
+            "wickets": "6"
           },
           {
             "name": "HEMANT MURARKA",
             "playerRole": " All Rounder ",
             "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=885822&clubId=1755",
-            "matches": { "matches": "0", "runs": "0" }
+            "matches": "0",
+            "runs": "0",
+            "wickets": "0"
           },
           {
             "name": "HERSHAL K",
             "playerRole": " All Rounder ",
             "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=943445&clubId=1755",
-            "matches": { "matches": "2", "runs": "0" }
+            "matches": "2",
+            "runs": "0",
+            "wickets": "0"
           },
           {
             "name": "IMRAN SYED",
             "playerRole": " All Rounder ",
             "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=839822&clubId=1755",
-            "matches": { "matches": "19", "runs": "74" }
+            "matches": "19",
+            "runs": "74",
+            "wickets": "12"
           },
           {
             "name": "VISHAL PHIRANI",
             "playerRole": " All Rounder ",
             "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=885851&clubId=1755",
-            "matches": { "matches": "10", "runs": "8" }
+            "matches": "10",
+            "runs": "8",
+            "wickets": "0"
           }
         ]
       }
