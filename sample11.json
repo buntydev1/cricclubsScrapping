@@ -17,11 +17,7 @@
             "playerRole": " All Rounder ",
             "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=893120&clubId=1755"
           },
-          {
-            "name": "AMARNATH AMARNATH",
-            "playerRole": " All Rounder ",
-            "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=893120&clubId=1755"
-          },
+          {},
           {
             "name": "AMITH RAUL",
             "playerRole": " All Rounder ",
@@ -57,11 +53,7 @@
             "playerRole": " All Rounder ",
             "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=839822&clubId=1755"
           },
-          {
-            "name": "VISHAL PHIRANI",
-            "playerRole": " All Rounder ",
-            "playerURL": "https://cricclubs.com/baca/viewPlayer.do?playerId=885851&clubId=1755"
-          }
+          {}
         ]
       }
     ]
