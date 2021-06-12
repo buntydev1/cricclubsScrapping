@@ -1,5 +1,5 @@
 const puppeteer = require("puppeteer");
-const clubs = require("./sample9.json");
+const clubs = require("./BACA6.json");
 const fs = require("fs");
 
 (async (clubs) => {
@@ -62,7 +62,7 @@ const fs = require("fs");
       })
     );
 
-    fs.writeFile("./PlayerStat2.json", JSON.stringify(clubResult), (err) => {
+    fs.writeFile("./PlayerStat3.json", JSON.stringify(clubResult), (err) => {
       if (err) {
         console.log("write error: " + err);
       }
