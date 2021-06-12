@@ -48,6 +48,7 @@ for (i = 0; i < playerData.length; i++) {
       ) {
         delete playerData[i].allTeams[j].listOfPlayer[k].name;
         delete playerData[i].allTeams[j].listOfPlayer[k].playerRole;
+        delete playerData[i].allTeams[j].listOfPlayer[k].playerURL;
       }
     }
   }
@@ -55,7 +56,7 @@ for (i = 0; i < playerData.length; i++) {
 }
 console.log("newData", newData);
 
-fs.writeFile("./BACA6.json", JSON.stringify(newData), (err) => {
+fs.writeFile("./sample7.json", JSON.stringify(newData), (err) => {
   if (err) {
     console.log("write error: " + err);
   }
